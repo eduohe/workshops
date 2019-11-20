@@ -1,0 +1,2000 @@
+{ "index" : { "_index" : "products", "_id" : "2" } }
+{"marketplace": "US", "title": "Vol Au Vents", "price": 85.44}
+{ "index" : { "_index" : "products", "_id" : "3" } }
+{"marketplace": "CA", "title": "Whmis Spray Bottle Graduated", "price": 91.0}
+{ "index" : { "_index" : "products", "_id" : "4" } }
+{"marketplace": "US", "title": "Potatoes - Yukon Gold, 80 Ct", "price": 53.18}
+{ "index" : { "_index" : "products", "_id" : "5" } }
+{"marketplace": "CA", "title": "Cumin - Whole", "price": 48.61}
+{ "index" : { "_index" : "products", "_id" : "6" } }
+{"marketplace": "CA", "title": "Wine - Baron De Rothschild", "price": 23.08}
+{ "index" : { "_index" : "products", "_id" : "7" } }
+{"marketplace": "MX", "title": "Garbage Bag - Clear", "price": 92.02}
+{ "index" : { "_index" : "products", "_id" : "8" } }
+{"marketplace": "US", "title": "Wine - Pinot Noir Mondavi Coastal", "price": 53.25}
+{ "index" : { "_index" : "products", "_id" : "9" } }
+{"marketplace": "CA", "title": "Mace", "price": 27.13}
+{ "index" : { "_index" : "products", "_id" : "10" } }
+{"marketplace": "CA", "title": "Parsnip", "price": 68.96}
+{ "index" : { "_index" : "products", "_id" : "11" } }
+{"marketplace": "CA", "title": "Pepper - Jalapeno", "price": 87.09}
+{ "index" : { "_index" : "products", "_id" : "12" } }
+{"marketplace": "MX", "title": "Split Peas - Green, Dry", "price": 38.22}
+{ "index" : { "_index" : "products", "_id" : "13" } }
+{"marketplace": "CA", "title": "Bread Base - Italian", "price": 30.34}
+{ "index" : { "_index" : "products", "_id" : "14" } }
+{"marketplace": "CA", "title": "Pepper - Red Bell", "price": 98.14}
+{ "index" : { "_index" : "products", "_id" : "15" } }
+{"marketplace": "US", "title": "Containter - 3oz Microwave Rect.", "price": 45.2}
+{ "index" : { "_index" : "products", "_id" : "16" } }
+{"marketplace": "MX", "title": "Cheese - Havarti, Salsa", "price": 31.93}
+{ "index" : { "_index" : "products", "_id" : "17" } }
+{"marketplace": "CA", "title": "Aspic - Clear", "price": 70.22}
+{ "index" : { "_index" : "products", "_id" : "18" } }
+{"marketplace": "US", "title": "Vodka - Moskovskaya", "price": 20.46}
+{ "index" : { "_index" : "products", "_id" : "19" } }
+{"marketplace": "US", "title": "Daves Island Stinger", "price": 61.51}
+{ "index" : { "_index" : "products", "_id" : "20" } }
+{"marketplace": "MX", "title": "Bandage - Finger Cots", "price": 86.67}
+{ "index" : { "_index" : "products", "_id" : "21" } }
+{"marketplace": "MX", "title": "Coffee - Hazelnut Cream", "price": 69.46}
+{ "index" : { "_index" : "products", "_id" : "22" } }
+{"marketplace": "US", "title": "Oil - Cooking Spray", "price": 78.27}
+{ "index" : { "_index" : "products", "_id" : "23" } }
+{"marketplace": "MX", "title": "Soup - Canadian Pea, Dry Mix", "price": 69.7}
+{ "index" : { "_index" : "products", "_id" : "24" } }
+{"marketplace": "CA", "title": "Pasta - Lasagna, Dry", "price": 51.2}
+{ "index" : { "_index" : "products", "_id" : "25" } }
+{"marketplace": "US", "title": "Soup Campbells Turkey Veg.", "price": 51.01}
+{ "index" : { "_index" : "products", "_id" : "26" } }
+{"marketplace": "US", "title": "Chicken Giblets", "price": 56.78}
+{ "index" : { "_index" : "products", "_id" : "27" } }
+{"marketplace": "CA", "title": "Wine - Zinfandel Rosenblum", "price": 49.94}
+{ "index" : { "_index" : "products", "_id" : "28" } }
+{"marketplace": "US", "title": "Eel Fresh", "price": 54.75}
+{ "index" : { "_index" : "products", "_id" : "29" } }
+{"marketplace": "MX", "title": "Beef - Tenderloin Tails", "price": 71.62}
+{ "index" : { "_index" : "products", "_id" : "30" } }
+{"marketplace": "US", "title": "Kumquat", "price": 87.93}
+{ "index" : { "_index" : "products", "_id" : "31" } }
+{"marketplace": "US", "title": "Tuna - Yellowfin", "price": 93.62}
+{ "index" : { "_index" : "products", "_id" : "32" } }
+{"marketplace": "US", "title": "Chinese Lemon Pork", "price": 66.17}
+{ "index" : { "_index" : "products", "_id" : "33" } }
+{"marketplace": "US", "title": "Chocolate - Dark Callets", "price": 56.35}
+{ "index" : { "_index" : "products", "_id" : "34" } }
+{"marketplace": "US", "title": "Pasta - Lasagna, Dry", "price": 79.54}
+{ "index" : { "_index" : "products", "_id" : "35" } }
+{"marketplace": "MX", "title": "Cheese - Ricotta", "price": 80.37}
+{ "index" : { "_index" : "products", "_id" : "36" } }
+{"marketplace": "US", "title": "Oil - Shortening,liqud, Fry", "price": 48.16}
+{ "index" : { "_index" : "products", "_id" : "37" } }
+{"marketplace": "CA", "title": "Cups 10oz Trans", "price": 23.33}
+{ "index" : { "_index" : "products", "_id" : "38" } }
+{"marketplace": "CA", "title": "Oil - Sunflower", "price": 58.09}
+{ "index" : { "_index" : "products", "_id" : "39" } }
+{"marketplace": "CA", "title": "Pasta - Cappellini, Dry", "price": 75.42}
+{ "index" : { "_index" : "products", "_id" : "40" } }
+{"marketplace": "MX", "title": "Tahini Paste", "price": 78.51}
+{ "index" : { "_index" : "products", "_id" : "41" } }
+{"marketplace": "US", "title": "Oregano - Dry, Rubbed", "price": 37.1}
+{ "index" : { "_index" : "products", "_id" : "42" } }
+{"marketplace": "CA", "title": "Chicken - Base", "price": 38.66}
+{ "index" : { "_index" : "products", "_id" : "43" } }
+{"marketplace": "MX", "title": "Wine - Periguita Fonseca", "price": 40.67}
+{ "index" : { "_index" : "products", "_id" : "44" } }
+{"marketplace": "US", "title": "Trueblue - Blueberry", "price": 47.58}
+{ "index" : { "_index" : "products", "_id" : "45" } }
+{"marketplace": "CA", "title": "Cactus Pads", "price": 32.44}
+{ "index" : { "_index" : "products", "_id" : "46" } }
+{"marketplace": "MX", "title": "Taro Root", "price": 83.7}
+{ "index" : { "_index" : "products", "_id" : "47" } }
+{"marketplace": "MX", "title": "Melon - Cantaloupe", "price": 86.47}
+{ "index" : { "_index" : "products", "_id" : "48" } }
+{"marketplace": "CA", "title": "Bread - Multigrain Oval", "price": 36.1}
+{ "index" : { "_index" : "products", "_id" : "49" } }
+{"marketplace": "CA", "title": "Icecream - Dstk Cml And Fdg", "price": 20.79}
+{ "index" : { "_index" : "products", "_id" : "50" } }
+{"marketplace": "US", "title": "Sugar - Icing", "price": 59.1}
+{ "index" : { "_index" : "products", "_id" : "51" } }
+{"marketplace": "US", "title": "Bread - Italian Corn Meal Poly", "price": 79.78}
+{ "index" : { "_index" : "products", "_id" : "52" } }
+{"marketplace": "US", "title": "Trout - Smoked", "price": 49.83}
+{ "index" : { "_index" : "products", "_id" : "53" } }
+{"marketplace": "CA", "title": "Bacardi Breezer - Tropical", "price": 75.71}
+{ "index" : { "_index" : "products", "_id" : "54" } }
+{"marketplace": "MX", "title": "Juice - Pineapple, 48 Oz", "price": 45.83}
+{ "index" : { "_index" : "products", "_id" : "55" } }
+{"marketplace": "CA", "title": "Beer - Sleeman Fine Porter", "price": 78.68}
+{ "index" : { "_index" : "products", "_id" : "56" } }
+{"marketplace": "CA", "title": "Turkey - Ground. Lean", "price": 60.06}
+{ "index" : { "_index" : "products", "_id" : "57" } }
+{"marketplace": "MX", "title": "Soup - French Onion, Dry", "price": 66.32}
+{ "index" : { "_index" : "products", "_id" : "58" } }
+{"marketplace": "CA", "title": "Puree - Mango", "price": 52.98}
+{ "index" : { "_index" : "products", "_id" : "59" } }
+{"marketplace": "MX", "title": "Spic And Span All Purpose", "price": 38.72}
+{ "index" : { "_index" : "products", "_id" : "60" } }
+{"marketplace": "US", "title": "Lemon Pepper", "price": 45.85}
+{ "index" : { "_index" : "products", "_id" : "61" } }
+{"marketplace": "US", "title": "Mace Ground", "price": 28.6}
+{ "index" : { "_index" : "products", "_id" : "62" } }
+{"marketplace": "US", "title": "Wine - White, Schroder And Schyl", "price": 88.49}
+{ "index" : { "_index" : "products", "_id" : "63" } }
+{"marketplace": "CA", "title": "Club Soda - Schweppes, 355 Ml", "price": 51.81}
+{ "index" : { "_index" : "products", "_id" : "64" } }
+{"marketplace": "US", "title": "Sunflower Seed Raw", "price": 74.84}
+{ "index" : { "_index" : "products", "_id" : "65" } }
+{"marketplace": "MX", "title": "Container - Clear 32 Oz", "price": 84.97}
+{ "index" : { "_index" : "products", "_id" : "66" } }
+{"marketplace": "US", "title": "Kellogs Special K Cereal", "price": 84.05}
+{ "index" : { "_index" : "products", "_id" : "67" } }
+{"marketplace": "US", "title": "Steam Pan Full Lid", "price": 72.32}
+{ "index" : { "_index" : "products", "_id" : "68" } }
+{"marketplace": "CA", "title": "Island Oasis - Strawberry", "price": 23.21}
+{ "index" : { "_index" : "products", "_id" : "69" } }
+{"marketplace": "US", "title": "Lemonade - Kiwi, 591 Ml", "price": 95.28}
+{ "index" : { "_index" : "products", "_id" : "70" } }
+{"marketplace": "US", "title": "Wine - Maipo Valle Cabernet", "price": 73.57}
+{ "index" : { "_index" : "products", "_id" : "71" } }
+{"marketplace": "CA", "title": "Tea - Black Currant", "price": 22.58}
+{ "index" : { "_index" : "products", "_id" : "72" } }
+{"marketplace": "MX", "title": "Currants", "price": 38.74}
+{ "index" : { "_index" : "products", "_id" : "73" } }
+{"marketplace": "US", "title": "Wine - Fontanafredda Barolo", "price": 40.29}
+{ "index" : { "_index" : "products", "_id" : "74" } }
+{"marketplace": "US", "title": "Sea Bass - Whole", "price": 60.16}
+{ "index" : { "_index" : "products", "_id" : "75" } }
+{"marketplace": "US", "title": "Wine - Lou Black Shiraz", "price": 68.51}
+{ "index" : { "_index" : "products", "_id" : "76" } }
+{"marketplace": "CA", "title": "Sword Pick Asst", "price": 36.39}
+{ "index" : { "_index" : "products", "_id" : "77" } }
+{"marketplace": "CA", "title": "Browning Caramel Glace", "price": 64.09}
+{ "index" : { "_index" : "products", "_id" : "78" } }
+{"marketplace": "MX", "title": "Mackerel Whole Fresh", "price": 81.28}
+{ "index" : { "_index" : "products", "_id" : "79" } }
+{"marketplace": "CA", "title": "Scallops - 20/30", "price": 78.84}
+{ "index" : { "_index" : "products", "_id" : "80" } }
+{"marketplace": "MX", "title": "Snapple - Mango Maddness", "price": 55.08}
+{ "index" : { "_index" : "products", "_id" : "81" } }
+{"marketplace": "MX", "title": "Bread - Multigrain", "price": 83.38}
+{ "index" : { "_index" : "products", "_id" : "82" } }
+{"marketplace": "CA", "title": "Broom Handle", "price": 23.12}
+{ "index" : { "_index" : "products", "_id" : "83" } }
+{"marketplace": "MX", "title": "Chives - Fresh", "price": 57.86}
+{ "index" : { "_index" : "products", "_id" : "84" } }
+{"marketplace": "CA", "title": "Shichimi Togarashi Peppeers", "price": 77.43}
+{ "index" : { "_index" : "products", "_id" : "85" } }
+{"marketplace": "US", "title": "Wonton Wrappers", "price": 22.98}
+{ "index" : { "_index" : "products", "_id" : "86" } }
+{"marketplace": "US", "title": "Pears - Bosc", "price": 82.41}
+{ "index" : { "_index" : "products", "_id" : "87" } }
+{"marketplace": "US", "title": "Table Cloth 62x114 Colour", "price": 52.86}
+{ "index" : { "_index" : "products", "_id" : "88" } }
+{"marketplace": "MX", "title": "Pear - Asian", "price": 79.25}
+{ "index" : { "_index" : "products", "_id" : "89" } }
+{"marketplace": "US", "title": "Smirnoff Green Apple Twist", "price": 73.22}
+{ "index" : { "_index" : "products", "_id" : "90" } }
+{"marketplace": "US", "title": "Clams - Bay", "price": 61.58}
+{ "index" : { "_index" : "products", "_id" : "91" } }
+{"marketplace": "CA", "title": "Southern Comfort", "price": 35.38}
+{ "index" : { "_index" : "products", "_id" : "92" } }
+{"marketplace": "CA", "title": "Mangoes", "price": 71.0}
+{ "index" : { "_index" : "products", "_id" : "93" } }
+{"marketplace": "CA", "title": "Beef - Kobe Striploin", "price": 97.33}
+{ "index" : { "_index" : "products", "_id" : "94" } }
+{"marketplace": "US", "title": "Eel Fresh", "price": 81.58}
+{ "index" : { "_index" : "products", "_id" : "95" } }
+{"marketplace": "MX", "title": "Blouse / Shirt / Sweater", "price": 37.59}
+{ "index" : { "_index" : "products", "_id" : "96" } }
+{"marketplace": "US", "title": "Skirt - 29 Foot", "price": 70.82}
+{ "index" : { "_index" : "products", "_id" : "97" } }
+{"marketplace": "US", "title": "Cheese - Grana Padano", "price": 55.67}
+{ "index" : { "_index" : "products", "_id" : "98" } }
+{"marketplace": "CA", "title": "Beef - Short Loin", "price": 23.57}
+{ "index" : { "_index" : "products", "_id" : "99" } }
+{"marketplace": "CA", "title": "Wine - Charddonnay Errazuriz", "price": 21.54}
+{ "index" : { "_index" : "products", "_id" : "100" } }
+{"marketplace": "US", "title": "Cookie Chocolate Chip With", "price": 38.61}
+{ "index" : { "_index" : "products", "_id" : "101" } }
+{"marketplace": "CA", "title": "Scotch - Queen Anne", "price": 37.9}
+{ "index" : { "_index" : "products", "_id" : "102" } }
+{"marketplace": "US", "title": "Coffee - Irish Cream", "price": 92.71}
+{ "index" : { "_index" : "products", "_id" : "103" } }
+{"marketplace": "US", "title": "Muffin Carrot - Individual", "price": 98.37}
+{ "index" : { "_index" : "products", "_id" : "104" } }
+{"marketplace": "MX", "title": "Sauce - Plum", "price": 96.32}
+{ "index" : { "_index" : "products", "_id" : "105" } }
+{"marketplace": "US", "title": "Ginger - Ground", "price": 51.79}
+{ "index" : { "_index" : "products", "_id" : "106" } }
+{"marketplace": "MX", "title": "Chocolate Bar - Smarties", "price": 82.86}
+{ "index" : { "_index" : "products", "_id" : "107" } }
+{"marketplace": "US", "title": "Eggplant Oriental", "price": 61.53}
+{ "index" : { "_index" : "products", "_id" : "108" } }
+{"marketplace": "US", "title": "Creme De Banane - Marie", "price": 96.96}
+{ "index" : { "_index" : "products", "_id" : "109" } }
+{"marketplace": "US", "title": "Ham Black Forest", "price": 21.15}
+{ "index" : { "_index" : "products", "_id" : "110" } }
+{"marketplace": "US", "title": "Beef - Rouladin, Sliced", "price": 36.58}
+{ "index" : { "_index" : "products", "_id" : "111" } }
+{"marketplace": "US", "title": "Cheese - Mozzarella, Shredded", "price": 94.15}
+{ "index" : { "_index" : "products", "_id" : "112" } }
+{"marketplace": "US", "title": "Salsify, Organic", "price": 58.67}
+{ "index" : { "_index" : "products", "_id" : "113" } }
+{"marketplace": "US", "title": "Chocolate Bar - Reese Pieces", "price": 85.2}
+{ "index" : { "_index" : "products", "_id" : "114" } }
+{"marketplace": "CA", "title": "Salt And Pepper Mix - Black", "price": 62.08}
+{ "index" : { "_index" : "products", "_id" : "115" } }
+{"marketplace": "US", "title": "Squid U5 - Thailand", "price": 58.76}
+{ "index" : { "_index" : "products", "_id" : "116" } }
+{"marketplace": "US", "title": "Food Colouring - Orange", "price": 88.4}
+{ "index" : { "_index" : "products", "_id" : "117" } }
+{"marketplace": "CA", "title": "Tuna - Salad Premix", "price": 95.66}
+{ "index" : { "_index" : "products", "_id" : "118" } }
+{"marketplace": "US", "title": "Wine - Magnotta - Bel Paese White", "price": 63.25}
+{ "index" : { "_index" : "products", "_id" : "119" } }
+{"marketplace": "US", "title": "Shrimp - Black Tiger 26/30", "price": 59.24}
+{ "index" : { "_index" : "products", "_id" : "120" } }
+{"marketplace": "US", "title": "Bread - Malt", "price": 44.02}
+{ "index" : { "_index" : "products", "_id" : "121" } }
+{"marketplace": "CA", "title": "Flour - Whole Wheat", "price": 41.95}
+{ "index" : { "_index" : "products", "_id" : "122" } }
+{"marketplace": "CA", "title": "Remy Red", "price": 91.49}
+{ "index" : { "_index" : "products", "_id" : "123" } }
+{"marketplace": "US", "title": "Edible Flower - Mixed", "price": 91.15}
+{ "index" : { "_index" : "products", "_id" : "124" } }
+{"marketplace": "US", "title": "Wine - Spumante Bambino White", "price": 88.15}
+{ "index" : { "_index" : "products", "_id" : "125" } }
+{"marketplace": "US", "title": "Allspice - Jamaican", "price": 20.19}
+{ "index" : { "_index" : "products", "_id" : "126" } }
+{"marketplace": "MX", "title": "Soup Campbells", "price": 28.11}
+{ "index" : { "_index" : "products", "_id" : "127" } }
+{"marketplace": "US", "title": "Soup - Cream Of Broccoli, Dry", "price": 30.9}
+{ "index" : { "_index" : "products", "_id" : "128" } }
+{"marketplace": "US", "title": "Appetizer - Shrimp Puff", "price": 22.38}
+{ "index" : { "_index" : "products", "_id" : "129" } }
+{"marketplace": "US", "title": "Icecream - Dstk Cml And Fdg", "price": 25.49}
+{ "index" : { "_index" : "products", "_id" : "130" } }
+{"marketplace": "MX", "title": "Pan Grease", "price": 64.94}
+{ "index" : { "_index" : "products", "_id" : "131" } }
+{"marketplace": "MX", "title": "Irish Cream - Butterscotch", "price": 62.94}
+{ "index" : { "_index" : "products", "_id" : "132" } }
+{"marketplace": "US", "title": "Mushroom - Porcini Frozen", "price": 55.52}
+{ "index" : { "_index" : "products", "_id" : "133" } }
+{"marketplace": "MX", "title": "Cherries - Frozen", "price": 72.93}
+{ "index" : { "_index" : "products", "_id" : "134" } }
+{"marketplace": "CA", "title": "Pasta - Cannelloni, Sheets, Fresh", "price": 33.08}
+{ "index" : { "_index" : "products", "_id" : "135" } }
+{"marketplace": "CA", "title": "Tuna - Sushi Grade", "price": 49.62}
+{ "index" : { "_index" : "products", "_id" : "136" } }
+{"marketplace": "US", "title": "Sponge Cake Mix - Vanilla", "price": 83.92}
+{ "index" : { "_index" : "products", "_id" : "137" } }
+{"marketplace": "US", "title": "Wine - White, Riesling, Semi - Dry", "price": 93.39}
+{ "index" : { "_index" : "products", "_id" : "138" } }
+{"marketplace": "CA", "title": "Oil - Canola", "price": 96.9}
+{ "index" : { "_index" : "products", "_id" : "139" } }
+{"marketplace": "CA", "title": "Pork - Back Ribs", "price": 81.25}
+{ "index" : { "_index" : "products", "_id" : "140" } }
+{"marketplace": "US", "title": "Pork - Backfat", "price": 98.32}
+{ "index" : { "_index" : "products", "_id" : "141" } }
+{"marketplace": "US", "title": "Oil - Margarine", "price": 76.8}
+{ "index" : { "_index" : "products", "_id" : "142" } }
+{"marketplace": "US", "title": "Pork - Smoked Kassler", "price": 46.7}
+{ "index" : { "_index" : "products", "_id" : "143" } }
+{"marketplace": "US", "title": "Pork Loin Cutlets", "price": 56.76}
+{ "index" : { "_index" : "products", "_id" : "144" } }
+{"marketplace": "CA", "title": "Beer - Labatt Blue", "price": 50.74}
+{ "index" : { "_index" : "products", "_id" : "145" } }
+{"marketplace": "MX", "title": "Pork - Bacon, Double Smoked", "price": 26.17}
+{ "index" : { "_index" : "products", "_id" : "146" } }
+{"marketplace": "US", "title": "Beef - Bresaola", "price": 94.23}
+{ "index" : { "_index" : "products", "_id" : "147" } }
+{"marketplace": "CA", "title": "Venison - Striploin", "price": 49.41}
+{ "index" : { "_index" : "products", "_id" : "148" } }
+{"marketplace": "MX", "title": "Wine - Malbec Trapiche Reserve", "price": 61.04}
+{ "index" : { "_index" : "products", "_id" : "149" } }
+{"marketplace": "US", "title": "Beef - Bones, Cut - Up", "price": 85.43}
+{ "index" : { "_index" : "products", "_id" : "150" } }
+{"marketplace": "MX", "title": "Salt - Sea", "price": 88.31}
+{ "index" : { "_index" : "products", "_id" : "151" } }
+{"marketplace": "MX", "title": "Chocolate - Semi Sweet", "price": 51.85}
+{ "index" : { "_index" : "products", "_id" : "152" } }
+{"marketplace": "US", "title": "Kaffir Lime Leaves", "price": 76.9}
+{ "index" : { "_index" : "products", "_id" : "153" } }
+{"marketplace": "US", "title": "Muffin Batt - Carrot Spice", "price": 96.69}
+{ "index" : { "_index" : "products", "_id" : "154" } }
+{"marketplace": "US", "title": "Wine - Zonnebloem Pinotage", "price": 34.91}
+{ "index" : { "_index" : "products", "_id" : "155" } }
+{"marketplace": "US", "title": "Alize Gold Passion", "price": 82.23}
+{ "index" : { "_index" : "products", "_id" : "156" } }
+{"marketplace": "CA", "title": "Black Currants", "price": 71.61}
+{ "index" : { "_index" : "products", "_id" : "157" } }
+{"marketplace": "MX", "title": "Lambcasing", "price": 76.85}
+{ "index" : { "_index" : "products", "_id" : "158" } }
+{"marketplace": "US", "title": "Daikon Radish", "price": 97.74}
+{ "index" : { "_index" : "products", "_id" : "159" } }
+{"marketplace": "CA", "title": "Pastry - Raisin Muffin - Mini", "price": 55.46}
+{ "index" : { "_index" : "products", "_id" : "160" } }
+{"marketplace": "MX", "title": "Chocolate - Dark Callets", "price": 74.04}
+{ "index" : { "_index" : "products", "_id" : "161" } }
+{"marketplace": "US", "title": "Scallops - In Shell", "price": 94.46}
+{ "index" : { "_index" : "products", "_id" : "162" } }
+{"marketplace": "MX", "title": "Lemonade - Kiwi, 591 Ml", "price": 87.42}
+{ "index" : { "_index" : "products", "_id" : "163" } }
+{"marketplace": "CA", "title": "Wine - White, Chardonnay", "price": 78.38}
+{ "index" : { "_index" : "products", "_id" : "164" } }
+{"marketplace": "US", "title": "Sprouts - Bean", "price": 81.2}
+{ "index" : { "_index" : "products", "_id" : "165" } }
+{"marketplace": "MX", "title": "Bread - French Stick", "price": 49.7}
+{ "index" : { "_index" : "products", "_id" : "166" } }
+{"marketplace": "US", "title": "V8 Splash Strawberry Banana", "price": 91.57}
+{ "index" : { "_index" : "products", "_id" : "167" } }
+{"marketplace": "CA", "title": "Wine - Kwv Chenin Blanc South", "price": 47.83}
+{ "index" : { "_index" : "products", "_id" : "168" } }
+{"marketplace": "US", "title": "Fudge - Chocolate Fudge", "price": 65.74}
+{ "index" : { "_index" : "products", "_id" : "169" } }
+{"marketplace": "MX", "title": "Coconut - Shredded, Unsweet", "price": 91.1}
+{ "index" : { "_index" : "products", "_id" : "170" } }
+{"marketplace": "US", "title": "Salt And Pepper Mix - White", "price": 68.8}
+{ "index" : { "_index" : "products", "_id" : "171" } }
+{"marketplace": "CA", "title": "Cheese - Goat With Herbs", "price": 65.15}
+{ "index" : { "_index" : "products", "_id" : "172" } }
+{"marketplace": "US", "title": "Beans - Green", "price": 22.35}
+{ "index" : { "_index" : "products", "_id" : "173" } }
+{"marketplace": "US", "title": "Venison - Racks Frenched", "price": 31.12}
+{ "index" : { "_index" : "products", "_id" : "174" } }
+{"marketplace": "CA", "title": "Sardines", "price": 83.35}
+{ "index" : { "_index" : "products", "_id" : "175" } }
+{"marketplace": "US", "title": "Parasol Pick Stir Stick", "price": 51.32}
+{ "index" : { "_index" : "products", "_id" : "176" } }
+{"marketplace": "MX", "title": "Rosemary - Dry", "price": 88.36}
+{ "index" : { "_index" : "products", "_id" : "177" } }
+{"marketplace": "MX", "title": "Syrup - Pancake", "price": 23.84}
+{ "index" : { "_index" : "products", "_id" : "178" } }
+{"marketplace": "CA", "title": "Muffin Hinge Container 6", "price": 55.57}
+{ "index" : { "_index" : "products", "_id" : "179" } }
+{"marketplace": "US", "title": "Wine - Sauvignon Blanc", "price": 34.0}
+{ "index" : { "_index" : "products", "_id" : "180" } }
+{"marketplace": "US", "title": "Sugar - Cubes", "price": 52.58}
+{ "index" : { "_index" : "products", "_id" : "181" } }
+{"marketplace": "US", "title": "Pork - Ham, Virginia", "price": 98.74}
+{ "index" : { "_index" : "products", "_id" : "182" } }
+{"marketplace": "CA", "title": "Hinge W Undercut", "price": 53.51}
+{ "index" : { "_index" : "products", "_id" : "183" } }
+{"marketplace": "MX", "title": "Oregano - Fresh", "price": 58.92}
+{ "index" : { "_index" : "products", "_id" : "184" } }
+{"marketplace": "US", "title": "Sprouts - China Rose", "price": 77.06}
+{ "index" : { "_index" : "products", "_id" : "185" } }
+{"marketplace": "US", "title": "Salt - Sea", "price": 64.43}
+{ "index" : { "_index" : "products", "_id" : "186" } }
+{"marketplace": "CA", "title": "Bread Fig And Almond", "price": 77.97}
+{ "index" : { "_index" : "products", "_id" : "187" } }
+{"marketplace": "CA", "title": "Veal - Insides Provini", "price": 44.02}
+{ "index" : { "_index" : "products", "_id" : "188" } }
+{"marketplace": "US", "title": "Puree - Raspberry", "price": 94.54}
+{ "index" : { "_index" : "products", "_id" : "189" } }
+{"marketplace": "MX", "title": "Dragon Fruit", "price": 52.01}
+{ "index" : { "_index" : "products", "_id" : "190" } }
+{"marketplace": "US", "title": "Glass Clear 7 Oz Xl", "price": 24.69}
+{ "index" : { "_index" : "products", "_id" : "191" } }
+{"marketplace": "CA", "title": "Cherries - Fresh", "price": 79.6}
+{ "index" : { "_index" : "products", "_id" : "192" } }
+{"marketplace": "MX", "title": "Pants Custom Dry Clean", "price": 81.35}
+{ "index" : { "_index" : "products", "_id" : "193" } }
+{"marketplace": "US", "title": "Soup - Campbells, Lentil", "price": 81.43}
+{ "index" : { "_index" : "products", "_id" : "194" } }
+{"marketplace": "MX", "title": "Artichokes - Knobless, White", "price": 90.82}
+{ "index" : { "_index" : "products", "_id" : "195" } }
+{"marketplace": "US", "title": "Fish - Bones", "price": 39.08}
+{ "index" : { "_index" : "products", "_id" : "196" } }
+{"marketplace": "US", "title": "Juice - Orange, Concentrate", "price": 21.04}
+{ "index" : { "_index" : "products", "_id" : "197" } }
+{"marketplace": "US", "title": "Mousse - Passion Fruit", "price": 72.98}
+{ "index" : { "_index" : "products", "_id" : "198" } }
+{"marketplace": "CA", "title": "Syrup - Kahlua Chocolate", "price": 88.12}
+{ "index" : { "_index" : "products", "_id" : "199" } }
+{"marketplace": "US", "title": "Wine - Rosso Toscano Igt", "price": 98.51}
+{ "index" : { "_index" : "products", "_id" : "200" } }
+{"marketplace": "MX", "title": "Muffin - Blueberry Individual", "price": 43.16}
+{ "index" : { "_index" : "products", "_id" : "201" } }
+{"marketplace": "US", "title": "Wine - Alicanca Vinho Verde", "price": 92.64}
+{ "index" : { "_index" : "products", "_id" : "202" } }
+{"marketplace": "US", "title": "Wine - Charddonnay Errazuriz", "price": 76.58}
+{ "index" : { "_index" : "products", "_id" : "203" } }
+{"marketplace": "MX", "title": "Beer - Sleemans Cream Ale", "price": 76.56}
+{ "index" : { "_index" : "products", "_id" : "204" } }
+{"marketplace": "US", "title": "Aspic - Light", "price": 99.26}
+{ "index" : { "_index" : "products", "_id" : "205" } }
+{"marketplace": "US", "title": "Clams - Littleneck, Whole", "price": 45.93}
+{ "index" : { "_index" : "products", "_id" : "206" } }
+{"marketplace": "US", "title": "Chicken Thigh - Bone Out", "price": 77.69}
+{ "index" : { "_index" : "products", "_id" : "207" } }
+{"marketplace": "US", "title": "Bag Stand", "price": 78.28}
+{ "index" : { "_index" : "products", "_id" : "208" } }
+{"marketplace": "CA", "title": "Wine - Gewurztraminer Pierre", "price": 62.69}
+{ "index" : { "_index" : "products", "_id" : "209" } }
+{"marketplace": "MX", "title": "Muffin - Bran Ind Wrpd", "price": 64.15}
+{ "index" : { "_index" : "products", "_id" : "210" } }
+{"marketplace": "MX", "title": "Bread - Triangle White", "price": 41.35}
+{ "index" : { "_index" : "products", "_id" : "211" } }
+{"marketplace": "MX", "title": "Allspice - Jamaican", "price": 68.08}
+{ "index" : { "_index" : "products", "_id" : "212" } }
+{"marketplace": "CA", "title": "Ice Cream - Life Savers", "price": 78.19}
+{ "index" : { "_index" : "products", "_id" : "213" } }
+{"marketplace": "US", "title": "Celery Root", "price": 97.17}
+{ "index" : { "_index" : "products", "_id" : "214" } }
+{"marketplace": "US", "title": "Tuna - Fresh", "price": 91.72}
+{ "index" : { "_index" : "products", "_id" : "215" } }
+{"marketplace": "US", "title": "Bread - 10 Grain Parisian", "price": 71.26}
+{ "index" : { "_index" : "products", "_id" : "216" } }
+{"marketplace": "US", "title": "Barramundi", "price": 45.02}
+{ "index" : { "_index" : "products", "_id" : "217" } }
+{"marketplace": "US", "title": "Gelatine Leaves - Envelopes", "price": 63.8}
+{ "index" : { "_index" : "products", "_id" : "218" } }
+{"marketplace": "US", "title": "Cake - Cake Sheet Macaroon", "price": 79.87}
+{ "index" : { "_index" : "products", "_id" : "219" } }
+{"marketplace": "US", "title": "Tea - Black Currant", "price": 40.99}
+{ "index" : { "_index" : "products", "_id" : "220" } }
+{"marketplace": "US", "title": "Red Pepper Paste", "price": 88.43}
+{ "index" : { "_index" : "products", "_id" : "221" } }
+{"marketplace": "US", "title": "Halibut - Fletches", "price": 25.9}
+{ "index" : { "_index" : "products", "_id" : "222" } }
+{"marketplace": "US", "title": "Broom Handle", "price": 84.44}
+{ "index" : { "_index" : "products", "_id" : "223" } }
+{"marketplace": "US", "title": "Yokaline", "price": 50.48}
+{ "index" : { "_index" : "products", "_id" : "224" } }
+{"marketplace": "US", "title": "Tea - Grapefruit Green Tea", "price": 91.96}
+{ "index" : { "_index" : "products", "_id" : "225" } }
+{"marketplace": "US", "title": "Turkey - Breast, Boneless Sk On", "price": 22.52}
+{ "index" : { "_index" : "products", "_id" : "226" } }
+{"marketplace": "US", "title": "Cornish Hen", "price": 56.49}
+{ "index" : { "_index" : "products", "_id" : "227" } }
+{"marketplace": "CA", "title": "Tilapia - Fillets", "price": 85.88}
+{ "index" : { "_index" : "products", "_id" : "228" } }
+{"marketplace": "US", "title": "Wine - Montecillo Rioja Crianza", "price": 20.8}
+{ "index" : { "_index" : "products", "_id" : "229" } }
+{"marketplace": "CA", "title": "Beef - Diced", "price": 85.76}
+{ "index" : { "_index" : "products", "_id" : "230" } }
+{"marketplace": "US", "title": "Crab - Meat", "price": 49.74}
+{ "index" : { "_index" : "products", "_id" : "231" } }
+{"marketplace": "MX", "title": "Vol Au Vents", "price": 57.76}
+{ "index" : { "_index" : "products", "_id" : "232" } }
+{"marketplace": "MX", "title": "Puree - Mango", "price": 92.16}
+{ "index" : { "_index" : "products", "_id" : "233" } }
+{"marketplace": "US", "title": "Flour - Strong Pizza", "price": 81.8}
+{ "index" : { "_index" : "products", "_id" : "234" } }
+{"marketplace": "US", "title": "Nut - Hazelnut, Whole", "price": 82.45}
+{ "index" : { "_index" : "products", "_id" : "235" } }
+{"marketplace": "MX", "title": "Gelatine Leaves - Envelopes", "price": 80.79}
+{ "index" : { "_index" : "products", "_id" : "236" } }
+{"marketplace": "CA", "title": "Shrimp - Baby, Warm Water", "price": 55.88}
+{ "index" : { "_index" : "products", "_id" : "237" } }
+{"marketplace": "US", "title": "Cookies Oatmeal Raisin", "price": 74.45}
+{ "index" : { "_index" : "products", "_id" : "238" } }
+{"marketplace": "US", "title": "Lotus Leaves", "price": 72.69}
+{ "index" : { "_index" : "products", "_id" : "239" } }
+{"marketplace": "US", "title": "Egg Patty Fried", "price": 68.52}
+{ "index" : { "_index" : "products", "_id" : "240" } }
+{"marketplace": "US", "title": "Horseradish - Prepared", "price": 96.67}
+{ "index" : { "_index" : "products", "_id" : "241" } }
+{"marketplace": "US", "title": "Beans - Green", "price": 40.93}
+{ "index" : { "_index" : "products", "_id" : "242" } }
+{"marketplace": "MX", "title": "Pork Loin Bine - In Frenched", "price": 64.03}
+{ "index" : { "_index" : "products", "_id" : "243" } }
+{"marketplace": "US", "title": "Chicken - Livers", "price": 38.23}
+{ "index" : { "_index" : "products", "_id" : "244" } }
+{"marketplace": "US", "title": "Cookies - Englishbay Oatmeal", "price": 49.59}
+{ "index" : { "_index" : "products", "_id" : "245" } }
+{"marketplace": "US", "title": "Rice - Brown", "price": 29.67}
+{ "index" : { "_index" : "products", "_id" : "246" } }
+{"marketplace": "CA", "title": "Oil - Coconut", "price": 75.36}
+{ "index" : { "_index" : "products", "_id" : "247" } }
+{"marketplace": "US", "title": "Corn - On The Cob", "price": 38.75}
+{ "index" : { "_index" : "products", "_id" : "248" } }
+{"marketplace": "CA", "title": "Island Oasis - Lemonade", "price": 93.18}
+{ "index" : { "_index" : "products", "_id" : "249" } }
+{"marketplace": "CA", "title": "Mushroom - Chanterelle Frozen", "price": 61.55}
+{ "index" : { "_index" : "products", "_id" : "250" } }
+{"marketplace": "US", "title": "Cake - Night And Day Choclate", "price": 32.42}
+{ "index" : { "_index" : "products", "_id" : "251" } }
+{"marketplace": "MX", "title": "Napkin White", "price": 75.74}
+{ "index" : { "_index" : "products", "_id" : "252" } }
+{"marketplace": "US", "title": "Spice - Paprika", "price": 50.64}
+{ "index" : { "_index" : "products", "_id" : "253" } }
+{"marketplace": "MX", "title": "Lettuce - Romaine, Heart", "price": 81.53}
+{ "index" : { "_index" : "products", "_id" : "254" } }
+{"marketplace": "US", "title": "Tart Shells - Savory, 2", "price": 32.11}
+{ "index" : { "_index" : "products", "_id" : "255" } }
+{"marketplace": "US", "title": "Cheese - Cheddar, Old White", "price": 26.86}
+{ "index" : { "_index" : "products", "_id" : "256" } }
+{"marketplace": "US", "title": "Pork - Shoulder", "price": 83.73}
+{ "index" : { "_index" : "products", "_id" : "257" } }
+{"marketplace": "MX", "title": "Wine La Vielle Ferme Cote Du", "price": 39.29}
+{ "index" : { "_index" : "products", "_id" : "258" } }
+{"marketplace": "MX", "title": "Ecolab Crystal Fusion", "price": 51.08}
+{ "index" : { "_index" : "products", "_id" : "259" } }
+{"marketplace": "US", "title": "Muffin - Blueberry Individual", "price": 28.39}
+{ "index" : { "_index" : "products", "_id" : "260" } }
+{"marketplace": "MX", "title": "Country Roll", "price": 46.29}
+{ "index" : { "_index" : "products", "_id" : "261" } }
+{"marketplace": "CA", "title": "Wine - Chablis J Moreau Et Fils", "price": 21.06}
+{ "index" : { "_index" : "products", "_id" : "262" } }
+{"marketplace": "US", "title": "Beans - Black Bean, Canned", "price": 54.31}
+{ "index" : { "_index" : "products", "_id" : "263" } }
+{"marketplace": "US", "title": "Corn - Cream, Canned", "price": 32.13}
+{ "index" : { "_index" : "products", "_id" : "264" } }
+{"marketplace": "CA", "title": "Mix Pina Colada", "price": 47.92}
+{ "index" : { "_index" : "products", "_id" : "265" } }
+{"marketplace": "CA", "title": "Wine - Jaboulet Cotes Du Rhone", "price": 39.67}
+{ "index" : { "_index" : "products", "_id" : "266" } }
+{"marketplace": "CA", "title": "Cheese - Cheddar, Mild", "price": 22.02}
+{ "index" : { "_index" : "products", "_id" : "267" } }
+{"marketplace": "CA", "title": "Aspic - Amber", "price": 95.9}
+{ "index" : { "_index" : "products", "_id" : "268" } }
+{"marketplace": "US", "title": "Anchovy Fillets", "price": 50.38}
+{ "index" : { "_index" : "products", "_id" : "269" } }
+{"marketplace": "MX", "title": "Compound - Mocha", "price": 53.3}
+{ "index" : { "_index" : "products", "_id" : "270" } }
+{"marketplace": "CA", "title": "Corn - Cream, Canned", "price": 73.18}
+{ "index" : { "_index" : "products", "_id" : "271" } }
+{"marketplace": "US", "title": "Chicken - White Meat With Tender", "price": 63.65}
+{ "index" : { "_index" : "products", "_id" : "272" } }
+{"marketplace": "MX", "title": "Trout - Rainbow, Fresh", "price": 33.99}
+{ "index" : { "_index" : "products", "_id" : "273" } }
+{"marketplace": "MX", "title": "Veal - Bones", "price": 48.24}
+{ "index" : { "_index" : "products", "_id" : "274" } }
+{"marketplace": "US", "title": "Cheese - Brie Roitelet", "price": 70.96}
+{ "index" : { "_index" : "products", "_id" : "275" } }
+{"marketplace": "CA", "title": "Cinnamon - Ground", "price": 48.85}
+{ "index" : { "_index" : "products", "_id" : "276" } }
+{"marketplace": "CA", "title": "Sprouts - Bean", "price": 75.35}
+{ "index" : { "_index" : "products", "_id" : "277" } }
+{"marketplace": "CA", "title": "Fennel - Seeds", "price": 52.88}
+{ "index" : { "_index" : "products", "_id" : "278" } }
+{"marketplace": "US", "title": "Bread Fig And Almond", "price": 53.15}
+{ "index" : { "_index" : "products", "_id" : "279" } }
+{"marketplace": "CA", "title": "Soup - Chicken And Wild Rice", "price": 60.98}
+{ "index" : { "_index" : "products", "_id" : "280" } }
+{"marketplace": "US", "title": "Juice - Apple, 341 Ml", "price": 46.0}
+{ "index" : { "_index" : "products", "_id" : "281" } }
+{"marketplace": "US", "title": "Wine - Spumante Bambino White", "price": 27.11}
+{ "index" : { "_index" : "products", "_id" : "282" } }
+{"marketplace": "CA", "title": "Bar Bran Honey Nut", "price": 58.93}
+{ "index" : { "_index" : "products", "_id" : "283" } }
+{"marketplace": "US", "title": "Calypso - Strawberry Lemonade", "price": 75.59}
+{ "index" : { "_index" : "products", "_id" : "284" } }
+{"marketplace": "US", "title": "Truffle - Whole Black Peeled", "price": 26.94}
+{ "index" : { "_index" : "products", "_id" : "285" } }
+{"marketplace": "MX", "title": "Oyster - In Shell", "price": 26.94}
+{ "index" : { "_index" : "products", "_id" : "286" } }
+{"marketplace": "CA", "title": "Oxtail - Cut", "price": 77.85}
+{ "index" : { "_index" : "products", "_id" : "287" } }
+{"marketplace": "CA", "title": "Nut - Almond, Blanched, Ground", "price": 59.84}
+{ "index" : { "_index" : "products", "_id" : "288" } }
+{"marketplace": "US", "title": "Cup - 6oz, Foam", "price": 93.22}
+{ "index" : { "_index" : "products", "_id" : "289" } }
+{"marketplace": "MX", "title": "Eggplant - Asian", "price": 95.27}
+{ "index" : { "_index" : "products", "_id" : "290" } }
+{"marketplace": "CA", "title": "Pork - Ground", "price": 54.43}
+{ "index" : { "_index" : "products", "_id" : "291" } }
+{"marketplace": "CA", "title": "Tomatoes - Heirloom", "price": 44.19}
+{ "index" : { "_index" : "products", "_id" : "292" } }
+{"marketplace": "MX", "title": "Container - Foam Dixie 12 Oz", "price": 47.56}
+{ "index" : { "_index" : "products", "_id" : "293" } }
+{"marketplace": "US", "title": "Juice - Lagoon Mango", "price": 50.49}
+{ "index" : { "_index" : "products", "_id" : "294" } }
+{"marketplace": "US", "title": "Appetizer - Mini Egg Roll, Shrimp", "price": 89.98}
+{ "index" : { "_index" : "products", "_id" : "295" } }
+{"marketplace": "CA", "title": "Eggplant Italian", "price": 36.52}
+{ "index" : { "_index" : "products", "_id" : "296" } }
+{"marketplace": "US", "title": "Plate Pie Foil", "price": 20.04}
+{ "index" : { "_index" : "products", "_id" : "297" } }
+{"marketplace": "MX", "title": "Canadian Emmenthal", "price": 25.64}
+{ "index" : { "_index" : "products", "_id" : "298" } }
+{"marketplace": "US", "title": "Ham - Cooked Italian", "price": 83.41}
+{ "index" : { "_index" : "products", "_id" : "299" } }
+{"marketplace": "MX", "title": "Wine - Jaboulet Cotes Du Rhone", "price": 54.43}
+{ "index" : { "_index" : "products", "_id" : "300" } }
+{"marketplace": "US", "title": "Beef - Tongue, Cooked", "price": 53.32}
+{ "index" : { "_index" : "products", "_id" : "301" } }
+{"marketplace": "US", "title": "Wine - Bourgogne 2002, La", "price": 64.13}
+{ "index" : { "_index" : "products", "_id" : "302" } }
+{"marketplace": "US", "title": "Danishes - Mini Cheese", "price": 70.96}
+{ "index" : { "_index" : "products", "_id" : "303" } }
+{"marketplace": "US", "title": "Fish - Atlantic Salmon, Cold", "price": 38.34}
+{ "index" : { "_index" : "products", "_id" : "304" } }
+{"marketplace": "US", "title": "Turkey - Breast, Boneless Sk On", "price": 50.75}
+{ "index" : { "_index" : "products", "_id" : "305" } }
+{"marketplace": "CA", "title": "Chicken - Wings, Tip Off", "price": 56.52}
+{ "index" : { "_index" : "products", "_id" : "306" } }
+{"marketplace": "US", "title": "Sugar - Icing", "price": 52.71}
+{ "index" : { "_index" : "products", "_id" : "307" } }
+{"marketplace": "US", "title": "Arizona - Green Tea", "price": 99.82}
+{ "index" : { "_index" : "products", "_id" : "308" } }
+{"marketplace": "US", "title": "Persimmons", "price": 59.11}
+{ "index" : { "_index" : "products", "_id" : "309" } }
+{"marketplace": "MX", "title": "Bread - Pita", "price": 47.3}
+{ "index" : { "_index" : "products", "_id" : "310" } }
+{"marketplace": "US", "title": "Veal - Eye Of Round", "price": 53.78}
+{ "index" : { "_index" : "products", "_id" : "311" } }
+{"marketplace": "CA", "title": "Chickensplit Half", "price": 93.06}
+{ "index" : { "_index" : "products", "_id" : "312" } }
+{"marketplace": "CA", "title": "Worcestershire Sauce", "price": 80.87}
+{ "index" : { "_index" : "products", "_id" : "313" } }
+{"marketplace": "CA", "title": "Vodka - Hot, Lnferno", "price": 38.01}
+{ "index" : { "_index" : "products", "_id" : "314" } }
+{"marketplace": "CA", "title": "Mustard - Dijon", "price": 74.3}
+{ "index" : { "_index" : "products", "_id" : "315" } }
+{"marketplace": "CA", "title": "Beef - Chuck, Boneless", "price": 53.54}
+{ "index" : { "_index" : "products", "_id" : "316" } }
+{"marketplace": "US", "title": "Marsala - Sperone, Fine, D.o.c.", "price": 62.54}
+{ "index" : { "_index" : "products", "_id" : "317" } }
+{"marketplace": "CA", "title": "Sauce - Soy Low Sodium - 3.87l", "price": 75.29}
+{ "index" : { "_index" : "products", "_id" : "318" } }
+{"marketplace": "US", "title": "Wine - Barolo Fontanafredda", "price": 75.12}
+{ "index" : { "_index" : "products", "_id" : "319" } }
+{"marketplace": "US", "title": "Energy Drink - Redbull 355ml", "price": 74.69}
+{ "index" : { "_index" : "products", "_id" : "320" } }
+{"marketplace": "US", "title": "Bar Energy Chocchip", "price": 63.88}
+{ "index" : { "_index" : "products", "_id" : "321" } }
+{"marketplace": "US", "title": "Tomatillo", "price": 81.42}
+{ "index" : { "_index" : "products", "_id" : "322" } }
+{"marketplace": "US", "title": "Kaffir Lime Leaves", "price": 60.52}
+{ "index" : { "_index" : "products", "_id" : "323" } }
+{"marketplace": "MX", "title": "Tortillas - Flour, 10", "price": 82.16}
+{ "index" : { "_index" : "products", "_id" : "324" } }
+{"marketplace": "CA", "title": "Wine - Red, Gamay Noir", "price": 38.01}
+{ "index" : { "_index" : "products", "_id" : "325" } }
+{"marketplace": "CA", "title": "Sauce - Oyster", "price": 73.76}
+{ "index" : { "_index" : "products", "_id" : "326" } }
+{"marketplace": "CA", "title": "Nantuket Peach Orange", "price": 62.57}
+{ "index" : { "_index" : "products", "_id" : "327" } }
+{"marketplace": "CA", "title": "Cheese - Cheddar, Mild", "price": 33.01}
+{ "index" : { "_index" : "products", "_id" : "328" } }
+{"marketplace": "US", "title": "Juice - Lagoon Mango", "price": 90.14}
+{ "index" : { "_index" : "products", "_id" : "329" } }
+{"marketplace": "US", "title": "Chips Potato Swt Chilli Sour", "price": 28.77}
+{ "index" : { "_index" : "products", "_id" : "330" } }
+{"marketplace": "US", "title": "Oil - Cooking Spray", "price": 48.64}
+{ "index" : { "_index" : "products", "_id" : "331" } }
+{"marketplace": "US", "title": "Bread - Italian Roll With Herbs", "price": 76.23}
+{ "index" : { "_index" : "products", "_id" : "332" } }
+{"marketplace": "US", "title": "Muffin Chocolate Individual Wrap", "price": 91.86}
+{ "index" : { "_index" : "products", "_id" : "333" } }
+{"marketplace": "US", "title": "Wine - Touraine Azay - Le - Rideau", "price": 98.23}
+{ "index" : { "_index" : "products", "_id" : "334" } }
+{"marketplace": "MX", "title": "Wiberg Super Cure", "price": 88.82}
+{ "index" : { "_index" : "products", "_id" : "335" } }
+{"marketplace": "CA", "title": "Bread - Onion Focaccia", "price": 68.19}
+{ "index" : { "_index" : "products", "_id" : "336" } }
+{"marketplace": "US", "title": "Scampi Tail", "price": 87.85}
+{ "index" : { "_index" : "products", "_id" : "337" } }
+{"marketplace": "MX", "title": "Beef - Tenderloin - Aa", "price": 41.7}
+{ "index" : { "_index" : "products", "_id" : "338" } }
+{"marketplace": "US", "title": "Juice - Mango", "price": 21.97}
+{ "index" : { "_index" : "products", "_id" : "339" } }
+{"marketplace": "CA", "title": "Ecolab Digiclean Mild Fm", "price": 73.68}
+{ "index" : { "_index" : "products", "_id" : "340" } }
+{"marketplace": "MX", "title": "Soup - French Can Pea", "price": 50.9}
+{ "index" : { "_index" : "products", "_id" : "341" } }
+{"marketplace": "MX", "title": "Gin - Gilbeys London, Dry", "price": 92.06}
+{ "index" : { "_index" : "products", "_id" : "342" } }
+{"marketplace": "US", "title": "Lamb - Rack", "price": 26.73}
+{ "index" : { "_index" : "products", "_id" : "343" } }
+{"marketplace": "CA", "title": "Lamb - Shoulder", "price": 53.36}
+{ "index" : { "_index" : "products", "_id" : "344" } }
+{"marketplace": "US", "title": "Celery", "price": 34.18}
+{ "index" : { "_index" : "products", "_id" : "345" } }
+{"marketplace": "US", "title": "Yokaline", "price": 31.67}
+{ "index" : { "_index" : "products", "_id" : "346" } }
+{"marketplace": "MX", "title": "Wine - Red, Gallo, Merlot", "price": 63.24}
+{ "index" : { "_index" : "products", "_id" : "347" } }
+{"marketplace": "MX", "title": "Soup - Tomato Mush. Florentine", "price": 69.62}
+{ "index" : { "_index" : "products", "_id" : "348" } }
+{"marketplace": "US", "title": "Broom And Brush Rack Black", "price": 48.05}
+{ "index" : { "_index" : "products", "_id" : "349" } }
+{"marketplace": "US", "title": "Juice - V8 Splash", "price": 34.56}
+{ "index" : { "_index" : "products", "_id" : "350" } }
+{"marketplace": "US", "title": "Brandy - Orange, Mc Guiness", "price": 23.93}
+{ "index" : { "_index" : "products", "_id" : "351" } }
+{"marketplace": "CA", "title": "Roe - White Fish", "price": 25.6}
+{ "index" : { "_index" : "products", "_id" : "352" } }
+{"marketplace": "US", "title": "Leeks - Large", "price": 66.31}
+{ "index" : { "_index" : "products", "_id" : "353" } }
+{"marketplace": "US", "title": "Tilapia - Fillets", "price": 82.67}
+{ "index" : { "_index" : "products", "_id" : "354" } }
+{"marketplace": "MX", "title": "Pasta - Lasagne, Fresh", "price": 24.45}
+{ "index" : { "_index" : "products", "_id" : "355" } }
+{"marketplace": "US", "title": "Spaghetti Squash", "price": 74.1}
+{ "index" : { "_index" : "products", "_id" : "356" } }
+{"marketplace": "US", "title": "Butter - Unsalted", "price": 54.54}
+{ "index" : { "_index" : "products", "_id" : "357" } }
+{"marketplace": "US", "title": "Scallops - 20/30", "price": 62.7}
+{ "index" : { "_index" : "products", "_id" : "358" } }
+{"marketplace": "MX", "title": "Sauce - Gravy, Au Jus, Mix", "price": 40.29}
+{ "index" : { "_index" : "products", "_id" : "359" } }
+{"marketplace": "US", "title": "Juice - Orange 1.89l", "price": 39.87}
+{ "index" : { "_index" : "products", "_id" : "360" } }
+{"marketplace": "US", "title": "Parsley - Dried", "price": 75.57}
+{ "index" : { "_index" : "products", "_id" : "361" } }
+{"marketplace": "US", "title": "Marsala - Sperone, Fine, D.o.c.", "price": 21.55}
+{ "index" : { "_index" : "products", "_id" : "362" } }
+{"marketplace": "US", "title": "Chutney Sauce", "price": 49.95}
+{ "index" : { "_index" : "products", "_id" : "363" } }
+{"marketplace": "US", "title": "Amarula Cream", "price": 36.26}
+{ "index" : { "_index" : "products", "_id" : "364" } }
+{"marketplace": "CA", "title": "Rice - Brown", "price": 44.03}
+{ "index" : { "_index" : "products", "_id" : "365" } }
+{"marketplace": "US", "title": "Apple - Royal Gala", "price": 27.04}
+{ "index" : { "_index" : "products", "_id" : "366" } }
+{"marketplace": "US", "title": "Crab - Imitation Flakes", "price": 36.7}
+{ "index" : { "_index" : "products", "_id" : "367" } }
+{"marketplace": "US", "title": "Yogurt - Peach, 175 Gr", "price": 66.01}
+{ "index" : { "_index" : "products", "_id" : "368" } }
+{"marketplace": "US", "title": "Croissants Thaw And Serve", "price": 56.01}
+{ "index" : { "_index" : "products", "_id" : "369" } }
+{"marketplace": "US", "title": "Beer - Paulaner Hefeweisse", "price": 48.24}
+{ "index" : { "_index" : "products", "_id" : "370" } }
+{"marketplace": "CA", "title": "Cheese - Parmesan Grated", "price": 65.78}
+{ "index" : { "_index" : "products", "_id" : "371" } }
+{"marketplace": "MX", "title": "Juice - Propel Sport", "price": 84.39}
+{ "index" : { "_index" : "products", "_id" : "372" } }
+{"marketplace": "MX", "title": "Crab Meat Claw Pasteurise", "price": 39.29}
+{ "index" : { "_index" : "products", "_id" : "373" } }
+{"marketplace": "US", "title": "Oil - Avocado", "price": 68.35}
+{ "index" : { "_index" : "products", "_id" : "374" } }
+{"marketplace": "MX", "title": "Parsley - Dried", "price": 35.95}
+{ "index" : { "_index" : "products", "_id" : "375" } }
+{"marketplace": "MX", "title": "Bread - Italian Sesame Poly", "price": 50.32}
+{ "index" : { "_index" : "products", "_id" : "376" } }
+{"marketplace": "US", "title": "Cookie Double Choco", "price": 23.0}
+{ "index" : { "_index" : "products", "_id" : "377" } }
+{"marketplace": "CA", "title": "Appetizer - Asian Shrimp Roll", "price": 43.44}
+{ "index" : { "_index" : "products", "_id" : "378" } }
+{"marketplace": "US", "title": "Carroway Seed", "price": 31.32}
+{ "index" : { "_index" : "products", "_id" : "379" } }
+{"marketplace": "CA", "title": "Veal - Heart", "price": 98.26}
+{ "index" : { "_index" : "products", "_id" : "380" } }
+{"marketplace": "US", "title": "Coffee Cup 8oz 5338cd", "price": 92.74}
+{ "index" : { "_index" : "products", "_id" : "381" } }
+{"marketplace": "US", "title": "Soap - Pine Sol Floor Cleaner", "price": 72.91}
+{ "index" : { "_index" : "products", "_id" : "382" } }
+{"marketplace": "CA", "title": "Wine - Delicato Merlot", "price": 40.17}
+{ "index" : { "_index" : "products", "_id" : "383" } }
+{"marketplace": "CA", "title": "Lamb - Shoulder, Boneless", "price": 30.37}
+{ "index" : { "_index" : "products", "_id" : "384" } }
+{"marketplace": "MX", "title": "Towels - Paper / Kraft", "price": 71.07}
+{ "index" : { "_index" : "products", "_id" : "385" } }
+{"marketplace": "US", "title": "Chicken - Whole Roasting", "price": 91.31}
+{ "index" : { "_index" : "products", "_id" : "386" } }
+{"marketplace": "US", "title": "Turnip - White, Organic", "price": 86.51}
+{ "index" : { "_index" : "products", "_id" : "387" } }
+{"marketplace": "US", "title": "Steampan Lid", "price": 90.06}
+{ "index" : { "_index" : "products", "_id" : "388" } }
+{"marketplace": "CA", "title": "Bread - Mini Hamburger Bun", "price": 58.68}
+{ "index" : { "_index" : "products", "_id" : "389" } }
+{"marketplace": "US", "title": "Doilies - 12, Paper", "price": 98.02}
+{ "index" : { "_index" : "products", "_id" : "390" } }
+{"marketplace": "CA", "title": "Tea - Green", "price": 60.21}
+{ "index" : { "_index" : "products", "_id" : "391" } }
+{"marketplace": "US", "title": "Bay Leaf", "price": 70.83}
+{ "index" : { "_index" : "products", "_id" : "392" } }
+{"marketplace": "US", "title": "Cup - Paper 10oz 92959", "price": 71.37}
+{ "index" : { "_index" : "products", "_id" : "393" } }
+{"marketplace": "US", "title": "Wine - Jafflin Bourgongone", "price": 33.29}
+{ "index" : { "_index" : "products", "_id" : "394" } }
+{"marketplace": "US", "title": "Doilies - 5, Paper", "price": 23.76}
+{ "index" : { "_index" : "products", "_id" : "395" } }
+{"marketplace": "MX", "title": "Wine - Acient Coast Caberne", "price": 20.98}
+{ "index" : { "_index" : "products", "_id" : "396" } }
+{"marketplace": "US", "title": "Salsify, Organic", "price": 47.2}
+{ "index" : { "_index" : "products", "_id" : "397" } }
+{"marketplace": "US", "title": "Cookies - Assorted", "price": 65.51}
+{ "index" : { "_index" : "products", "_id" : "398" } }
+{"marketplace": "MX", "title": "Absolut Citron", "price": 77.2}
+{ "index" : { "_index" : "products", "_id" : "399" } }
+{"marketplace": "MX", "title": "Kiwi", "price": 76.75}
+{ "index" : { "_index" : "products", "_id" : "400" } }
+{"marketplace": "CA", "title": "Fond - Chocolate", "price": 48.44}
+{ "index" : { "_index" : "products", "_id" : "401" } }
+{"marketplace": "US", "title": "Lemonade - Mandarin, 591 Ml", "price": 33.51}
+{ "index" : { "_index" : "products", "_id" : "402" } }
+{"marketplace": "CA", "title": "Bread - Rolls, Corn", "price": 28.38}
+{ "index" : { "_index" : "products", "_id" : "403" } }
+{"marketplace": "US", "title": "Lettuce - Frisee", "price": 85.82}
+{ "index" : { "_index" : "products", "_id" : "404" } }
+{"marketplace": "CA", "title": "Nantuket Peach Orange", "price": 86.97}
+{ "index" : { "_index" : "products", "_id" : "405" } }
+{"marketplace": "MX", "title": "Vaccum Bag - 14x20", "price": 38.68}
+{ "index" : { "_index" : "products", "_id" : "406" } }
+{"marketplace": "US", "title": "Tobasco Sauce", "price": 29.68}
+{ "index" : { "_index" : "products", "_id" : "407" } }
+{"marketplace": "MX", "title": "Squash - Pattypan, Yellow", "price": 89.17}
+{ "index" : { "_index" : "products", "_id" : "408" } }
+{"marketplace": "US", "title": "Five Alive Citrus", "price": 26.48}
+{ "index" : { "_index" : "products", "_id" : "409" } }
+{"marketplace": "US", "title": "Chips Potato Salt Vinegar 43g", "price": 47.96}
+{ "index" : { "_index" : "products", "_id" : "410" } }
+{"marketplace": "CA", "title": "Fish - Scallops, Cold Smoked", "price": 88.83}
+{ "index" : { "_index" : "products", "_id" : "411" } }
+{"marketplace": "MX", "title": "Cheese - Oka", "price": 25.6}
+{ "index" : { "_index" : "products", "_id" : "412" } }
+{"marketplace": "CA", "title": "Coriander - Seed", "price": 38.42}
+{ "index" : { "_index" : "products", "_id" : "413" } }
+{"marketplace": "US", "title": "Bay Leaf", "price": 77.64}
+{ "index" : { "_index" : "products", "_id" : "414" } }
+{"marketplace": "US", "title": "Cake - Mini Cheesecake", "price": 25.52}
+{ "index" : { "_index" : "products", "_id" : "415" } }
+{"marketplace": "US", "title": "Sauce - Plum", "price": 75.41}
+{ "index" : { "_index" : "products", "_id" : "416" } }
+{"marketplace": "US", "title": "Soup - Base Broth Beef", "price": 39.69}
+{ "index" : { "_index" : "products", "_id" : "417" } }
+{"marketplace": "US", "title": "Shrimp - 16/20, Peeled Deviened", "price": 60.95}
+{ "index" : { "_index" : "products", "_id" : "418" } }
+{"marketplace": "US", "title": "Blueberries - Frozen", "price": 92.18}
+{ "index" : { "_index" : "products", "_id" : "419" } }
+{"marketplace": "MX", "title": "Pur Source", "price": 72.31}
+{ "index" : { "_index" : "products", "_id" : "420" } }
+{"marketplace": "US", "title": "Nutmeg - Ground", "price": 93.65}
+{ "index" : { "_index" : "products", "_id" : "421" } }
+{"marketplace": "CA", "title": "Chicken Thigh - Bone Out", "price": 33.32}
+{ "index" : { "_index" : "products", "_id" : "422" } }
+{"marketplace": "US", "title": "Wine - Pinot Noir Latour", "price": 60.07}
+{ "index" : { "_index" : "products", "_id" : "423" } }
+{"marketplace": "MX", "title": "Pork - Bacon Cooked Slcd", "price": 56.79}
+{ "index" : { "_index" : "products", "_id" : "424" } }
+{"marketplace": "US", "title": "Mushroom - Shitake, Dry", "price": 69.49}
+{ "index" : { "_index" : "products", "_id" : "425" } }
+{"marketplace": "MX", "title": "Wine - Charddonnay Errazuriz", "price": 23.46}
+{ "index" : { "_index" : "products", "_id" : "426" } }
+{"marketplace": "MX", "title": "Beans - Turtle, Black, Dry", "price": 53.78}
+{ "index" : { "_index" : "products", "_id" : "427" } }
+{"marketplace": "CA", "title": "Flour - Semolina", "price": 89.82}
+{ "index" : { "_index" : "products", "_id" : "428" } }
+{"marketplace": "MX", "title": "Parsley - Dried", "price": 76.86}
+{ "index" : { "_index" : "products", "_id" : "429" } }
+{"marketplace": "US", "title": "Tomatoes - Vine Ripe, Red", "price": 28.54}
+{ "index" : { "_index" : "products", "_id" : "430" } }
+{"marketplace": "US", "title": "Basil - Fresh", "price": 49.75}
+{ "index" : { "_index" : "products", "_id" : "431" } }
+{"marketplace": "US", "title": "Lamb - Bones", "price": 86.69}
+{ "index" : { "_index" : "products", "_id" : "432" } }
+{"marketplace": "CA", "title": "Huck White Towels", "price": 96.65}
+{ "index" : { "_index" : "products", "_id" : "433" } }
+{"marketplace": "US", "title": "Tuna - Yellowfin", "price": 40.1}
+{ "index" : { "_index" : "products", "_id" : "434" } }
+{"marketplace": "US", "title": "Lime Cordial - Roses", "price": 68.1}
+{ "index" : { "_index" : "products", "_id" : "435" } }
+{"marketplace": "US", "title": "Pork - Butt, Boneless", "price": 23.26}
+{ "index" : { "_index" : "products", "_id" : "436" } }
+{"marketplace": "US", "title": "Pepper - Red, Finger Hot", "price": 95.16}
+{ "index" : { "_index" : "products", "_id" : "437" } }
+{"marketplace": "MX", "title": "Sprouts - Baby Pea Tendrils", "price": 85.95}
+{ "index" : { "_index" : "products", "_id" : "438" } }
+{"marketplace": "CA", "title": "Pastry - Carrot Muffin - Mini", "price": 47.9}
+{ "index" : { "_index" : "products", "_id" : "439" } }
+{"marketplace": "US", "title": "Puff Pastry - Slab", "price": 97.04}
+{ "index" : { "_index" : "products", "_id" : "440" } }
+{"marketplace": "US", "title": "Pasta - Cheese / Spinach Bauletti", "price": 66.62}
+{ "index" : { "_index" : "products", "_id" : "441" } }
+{"marketplace": "MX", "title": "Basil - Seedlings Cookstown", "price": 67.07}
+{ "index" : { "_index" : "products", "_id" : "442" } }
+{"marketplace": "US", "title": "Bread - Bagels, Mini", "price": 37.39}
+{ "index" : { "_index" : "products", "_id" : "443" } }
+{"marketplace": "CA", "title": "Wine - Beringer Founders Estate", "price": 50.28}
+{ "index" : { "_index" : "products", "_id" : "444" } }
+{"marketplace": "US", "title": "Russian Prince", "price": 35.13}
+{ "index" : { "_index" : "products", "_id" : "445" } }
+{"marketplace": "US", "title": "Juice - Grape, White", "price": 48.62}
+{ "index" : { "_index" : "products", "_id" : "446" } }
+{"marketplace": "US", "title": "Tray - Foam, Square 4 - S", "price": 70.51}
+{ "index" : { "_index" : "products", "_id" : "447" } }
+{"marketplace": "MX", "title": "Ecolab - Mikroklene 4/4 L", "price": 22.4}
+{ "index" : { "_index" : "products", "_id" : "448" } }
+{"marketplace": "MX", "title": "Cloves - Whole", "price": 80.98}
+{ "index" : { "_index" : "products", "_id" : "449" } }
+{"marketplace": "MX", "title": "Wine - Alicanca Vinho Verde", "price": 95.49}
+{ "index" : { "_index" : "products", "_id" : "450" } }
+{"marketplace": "US", "title": "Sugar - Splenda Sweetener", "price": 90.93}
+{ "index" : { "_index" : "products", "_id" : "451" } }
+{"marketplace": "US", "title": "Spice - Greek 1 Step", "price": 36.2}
+{ "index" : { "_index" : "products", "_id" : "452" } }
+{"marketplace": "CA", "title": "Langers - Cranberry Cocktail", "price": 54.96}
+{ "index" : { "_index" : "products", "_id" : "453" } }
+{"marketplace": "CA", "title": "Wine - Dubouef Macon - Villages", "price": 29.29}
+{ "index" : { "_index" : "products", "_id" : "454" } }
+{"marketplace": "MX", "title": "Squid U5 - Thailand", "price": 40.42}
+{ "index" : { "_index" : "products", "_id" : "455" } }
+{"marketplace": "US", "title": "Juice - Apple, 1.36l", "price": 40.3}
+{ "index" : { "_index" : "products", "_id" : "456" } }
+{"marketplace": "MX", "title": "Meldea Green Tea Liquor", "price": 46.96}
+{ "index" : { "_index" : "products", "_id" : "457" } }
+{"marketplace": "US", "title": "Sobe - Cranberry Grapefruit", "price": 41.98}
+{ "index" : { "_index" : "products", "_id" : "458" } }
+{"marketplace": "MX", "title": "Tea Leaves - Oolong", "price": 73.26}
+{ "index" : { "_index" : "products", "_id" : "459" } }
+{"marketplace": "US", "title": "Wine - Periguita Fonseca", "price": 50.72}
+{ "index" : { "_index" : "products", "_id" : "460" } }
+{"marketplace": "US", "title": "Lighter - Bbq", "price": 37.54}
+{ "index" : { "_index" : "products", "_id" : "461" } }
+{"marketplace": "CA", "title": "Fond - Chocolate", "price": 73.26}
+{ "index" : { "_index" : "products", "_id" : "462" } }
+{"marketplace": "CA", "title": "Pepper - Black, Whole", "price": 89.44}
+{ "index" : { "_index" : "products", "_id" : "463" } }
+{"marketplace": "US", "title": "Wine - Red, Mouton Cadet", "price": 77.81}
+{ "index" : { "_index" : "products", "_id" : "464" } }
+{"marketplace": "US", "title": "Oil - Olive, Extra Virgin", "price": 89.06}
+{ "index" : { "_index" : "products", "_id" : "465" } }
+{"marketplace": "US", "title": "Veal - Leg, Provimi - 50 Lb Max", "price": 53.99}
+{ "index" : { "_index" : "products", "_id" : "466" } }
+{"marketplace": "US", "title": "Sugar - Splenda Sweetener", "price": 88.56}
+{ "index" : { "_index" : "products", "_id" : "467" } }
+{"marketplace": "US", "title": "Transfer Sheets", "price": 92.35}
+{ "index" : { "_index" : "products", "_id" : "468" } }
+{"marketplace": "CA", "title": "Munchies Honey Sweet Trail Mix", "price": 88.06}
+{ "index" : { "_index" : "products", "_id" : "469" } }
+{"marketplace": "US", "title": "Paste - Black Olive", "price": 87.88}
+{ "index" : { "_index" : "products", "_id" : "470" } }
+{"marketplace": "US", "title": "Rice - Basmati", "price": 33.49}
+{ "index" : { "_index" : "products", "_id" : "471" } }
+{"marketplace": "US", "title": "Huck White Towels", "price": 89.59}
+{ "index" : { "_index" : "products", "_id" : "472" } }
+{"marketplace": "CA", "title": "Remy Red", "price": 83.05}
+{ "index" : { "_index" : "products", "_id" : "473" } }
+{"marketplace": "US", "title": "Wine - White, Colubia Cresh", "price": 81.99}
+{ "index" : { "_index" : "products", "_id" : "474" } }
+{"marketplace": "MX", "title": "Clams - Littleneck, Whole", "price": 88.36}
+{ "index" : { "_index" : "products", "_id" : "475" } }
+{"marketplace": "US", "title": "Wine - Port Late Bottled Vintage", "price": 58.75}
+{ "index" : { "_index" : "products", "_id" : "476" } }
+{"marketplace": "US", "title": "Beef - Tenderloin", "price": 83.46}
+{ "index" : { "_index" : "products", "_id" : "477" } }
+{"marketplace": "CA", "title": "Muffin Mix - Chocolate Chip", "price": 61.63}
+{ "index" : { "_index" : "products", "_id" : "478" } }
+{"marketplace": "CA", "title": "Bread - Olive Dinner Roll", "price": 64.27}
+{ "index" : { "_index" : "products", "_id" : "479" } }
+{"marketplace": "US", "title": "Worcestershire Sauce", "price": 71.48}
+{ "index" : { "_index" : "products", "_id" : "480" } }
+{"marketplace": "US", "title": "Tofu - Firm", "price": 34.65}
+{ "index" : { "_index" : "products", "_id" : "481" } }
+{"marketplace": "CA", "title": "Soup - French Onion", "price": 50.13}
+{ "index" : { "_index" : "products", "_id" : "482" } }
+{"marketplace": "MX", "title": "Dawn Professionl Pot And Pan", "price": 79.83}
+{ "index" : { "_index" : "products", "_id" : "483" } }
+{"marketplace": "US", "title": "Longos - Lasagna Veg", "price": 77.85}
+{ "index" : { "_index" : "products", "_id" : "484" } }
+{"marketplace": "CA", "title": "Doilies - 12, Paper", "price": 78.8}
+{ "index" : { "_index" : "products", "_id" : "485" } }
+{"marketplace": "US", "title": "Mayonnaise - Individual Pkg", "price": 88.84}
+{ "index" : { "_index" : "products", "_id" : "486" } }
+{"marketplace": "US", "title": "Pineapple - Canned, Rings", "price": 49.97}
+{ "index" : { "_index" : "products", "_id" : "487" } }
+{"marketplace": "MX", "title": "Ice - Clear, 300 Lb For Carving", "price": 26.36}
+{ "index" : { "_index" : "products", "_id" : "488" } }
+{"marketplace": "MX", "title": "Pepper - Pablano", "price": 33.02}
+{ "index" : { "_index" : "products", "_id" : "489" } }
+{"marketplace": "CA", "title": "Pernod", "price": 26.71}
+{ "index" : { "_index" : "products", "_id" : "490" } }
+{"marketplace": "US", "title": "Soup - Chicken And Wild Rice", "price": 87.06}
+{ "index" : { "_index" : "products", "_id" : "491" } }
+{"marketplace": "CA", "title": "Sugar - Invert", "price": 99.07}
+{ "index" : { "_index" : "products", "_id" : "492" } }
+{"marketplace": "US", "title": "Tea - Earl Grey", "price": 54.38}
+{ "index" : { "_index" : "products", "_id" : "493" } }
+{"marketplace": "MX", "title": "Pastry - Raisin Muffin - Mini", "price": 80.76}
+{ "index" : { "_index" : "products", "_id" : "494" } }
+{"marketplace": "US", "title": "Milkettes - 2%", "price": 50.5}
+{ "index" : { "_index" : "products", "_id" : "495" } }
+{"marketplace": "CA", "title": "Snapple - Iced Tea Peach", "price": 46.79}
+{ "index" : { "_index" : "products", "_id" : "496" } }
+{"marketplace": "MX", "title": "Wine - White, Cooking", "price": 29.81}
+{ "index" : { "_index" : "products", "_id" : "497" } }
+{"marketplace": "CA", "title": "Flour - Corn, Fine", "price": 47.21}
+{ "index" : { "_index" : "products", "_id" : "498" } }
+{"marketplace": "CA", "title": "Artichoke - Hearts, Canned", "price": 73.75}
+{ "index" : { "_index" : "products", "_id" : "499" } }
+{"marketplace": "US", "title": "Napkin - Beverage 1 Ply", "price": 60.46}
+{ "index" : { "_index" : "products", "_id" : "500" } }
+{"marketplace": "MX", "title": "Pate Pans Yellow", "price": 23.47}
+{ "index" : { "_index" : "products", "_id" : "501" } }
+{"marketplace": "US", "title": "Maintenance Removal Charge", "price": 36.47}
+{ "index" : { "_index" : "products", "_id" : "502" } }
+{"marketplace": "US", "title": "Wine - Pinot Grigio Collavini", "price": 44.56}
+{ "index" : { "_index" : "products", "_id" : "503" } }
+{"marketplace": "MX", "title": "Turnip - White", "price": 38.73}
+{ "index" : { "_index" : "products", "_id" : "504" } }
+{"marketplace": "US", "title": "Shrimp - Black Tiger 8 - 12", "price": 98.2}
+{ "index" : { "_index" : "products", "_id" : "505" } }
+{"marketplace": "CA", "title": "Oil - Margarine", "price": 34.45}
+{ "index" : { "_index" : "products", "_id" : "506" } }
+{"marketplace": "MX", "title": "Chicken - Leg, Boneless", "price": 22.04}
+{ "index" : { "_index" : "products", "_id" : "507" } }
+{"marketplace": "MX", "title": "Shrimp - Black Tiger 26/30", "price": 84.05}
+{ "index" : { "_index" : "products", "_id" : "508" } }
+{"marketplace": "US", "title": "Wine - Sauvignon Blanc Oyster", "price": 21.2}
+{ "index" : { "_index" : "products", "_id" : "509" } }
+{"marketplace": "US", "title": "Pasta - Fettuccine, Dry", "price": 82.62}
+{ "index" : { "_index" : "products", "_id" : "510" } }
+{"marketplace": "MX", "title": "Scallops - In Shell", "price": 49.43}
+{ "index" : { "_index" : "products", "_id" : "511" } }
+{"marketplace": "CA", "title": "Wine - Chateauneuf Du Pape", "price": 45.83}
+{ "index" : { "_index" : "products", "_id" : "512" } }
+{"marketplace": "US", "title": "Mint - Fresh", "price": 89.18}
+{ "index" : { "_index" : "products", "_id" : "513" } }
+{"marketplace": "MX", "title": "Puree - Blackcurrant", "price": 44.48}
+{ "index" : { "_index" : "products", "_id" : "514" } }
+{"marketplace": "MX", "title": "Soup Knorr Chili With Beans", "price": 60.83}
+{ "index" : { "_index" : "products", "_id" : "515" } }
+{"marketplace": "US", "title": "Roe - Lump Fish, Red", "price": 48.9}
+{ "index" : { "_index" : "products", "_id" : "516" } }
+{"marketplace": "CA", "title": "Rabbit - Legs", "price": 26.7}
+{ "index" : { "_index" : "products", "_id" : "517" } }
+{"marketplace": "MX", "title": "Nestea - Ice Tea, Diet", "price": 72.3}
+{ "index" : { "_index" : "products", "_id" : "518" } }
+{"marketplace": "US", "title": "Mangoes", "price": 24.68}
+{ "index" : { "_index" : "products", "_id" : "519" } }
+{"marketplace": "CA", "title": "Papadam", "price": 85.18}
+{ "index" : { "_index" : "products", "_id" : "520" } }
+{"marketplace": "CA", "title": "Persimmons", "price": 84.51}
+{ "index" : { "_index" : "products", "_id" : "521" } }
+{"marketplace": "CA", "title": "Bread - Sour Batard", "price": 49.71}
+{ "index" : { "_index" : "products", "_id" : "522" } }
+{"marketplace": "MX", "title": "Beef - Rouladin, Sliced", "price": 88.41}
+{ "index" : { "_index" : "products", "_id" : "523" } }
+{"marketplace": "US", "title": "Wine - Pinot Noir Mondavi Coastal", "price": 71.47}
+{ "index" : { "_index" : "products", "_id" : "524" } }
+{"marketplace": "US", "title": "Cape Capensis - Fillet", "price": 89.34}
+{ "index" : { "_index" : "products", "_id" : "525" } }
+{"marketplace": "US", "title": "External Supplier", "price": 64.87}
+{ "index" : { "_index" : "products", "_id" : "526" } }
+{"marketplace": "CA", "title": "Glass - Wine, Plastic, Clear 5 Oz", "price": 37.65}
+{ "index" : { "_index" : "products", "_id" : "527" } }
+{"marketplace": "US", "title": "Raspberries - Fresh", "price": 69.95}
+{ "index" : { "_index" : "products", "_id" : "528" } }
+{"marketplace": "CA", "title": "Chicken - Thigh, Bone In", "price": 20.53}
+{ "index" : { "_index" : "products", "_id" : "529" } }
+{"marketplace": "US", "title": "Pork - Belly Fresh", "price": 90.48}
+{ "index" : { "_index" : "products", "_id" : "530" } }
+{"marketplace": "US", "title": "Wine - White, Gewurtzraminer", "price": 64.61}
+{ "index" : { "_index" : "products", "_id" : "531" } }
+{"marketplace": "US", "title": "Canada Dry", "price": 57.65}
+{ "index" : { "_index" : "products", "_id" : "532" } }
+{"marketplace": "US", "title": "Pear - Asian", "price": 58.64}
+{ "index" : { "_index" : "products", "_id" : "533" } }
+{"marketplace": "US", "title": "Artichoke - Fresh", "price": 59.51}
+{ "index" : { "_index" : "products", "_id" : "534" } }
+{"marketplace": "MX", "title": "Bay Leaf Ground", "price": 97.25}
+{ "index" : { "_index" : "products", "_id" : "535" } }
+{"marketplace": "CA", "title": "Swiss Chard - Red", "price": 95.93}
+{ "index" : { "_index" : "products", "_id" : "536" } }
+{"marketplace": "US", "title": "Cheese - Stilton", "price": 39.16}
+{ "index" : { "_index" : "products", "_id" : "537" } }
+{"marketplace": "US", "title": "Sunflower Seed Raw", "price": 23.67}
+{ "index" : { "_index" : "products", "_id" : "538" } }
+{"marketplace": "CA", "title": "Rice - Basmati", "price": 96.35}
+{ "index" : { "_index" : "products", "_id" : "539" } }
+{"marketplace": "MX", "title": "Couscous", "price": 80.48}
+{ "index" : { "_index" : "products", "_id" : "540" } }
+{"marketplace": "US", "title": "Bar Nature Valley", "price": 24.51}
+{ "index" : { "_index" : "products", "_id" : "541" } }
+{"marketplace": "US", "title": "Shopper Bag - S - 4", "price": 50.53}
+{ "index" : { "_index" : "products", "_id" : "542" } }
+{"marketplace": "CA", "title": "Pastry - Choclate Baked", "price": 89.62}
+{ "index" : { "_index" : "products", "_id" : "543" } }
+{"marketplace": "US", "title": "Absolut Citron", "price": 30.33}
+{ "index" : { "_index" : "products", "_id" : "544" } }
+{"marketplace": "CA", "title": "Wine - Vovray Sec Domaine Huet", "price": 29.1}
+{ "index" : { "_index" : "products", "_id" : "545" } }
+{"marketplace": "US", "title": "Pastry - Cheese Baked Scones", "price": 67.9}
+{ "index" : { "_index" : "products", "_id" : "546" } }
+{"marketplace": "CA", "title": "Compound - Mocha", "price": 71.72}
+{ "index" : { "_index" : "products", "_id" : "547" } }
+{"marketplace": "MX", "title": "Fish - Halibut, Cold Smoked", "price": 88.75}
+{ "index" : { "_index" : "products", "_id" : "548" } }
+{"marketplace": "US", "title": "Tea - Honey Green Tea", "price": 77.37}
+{ "index" : { "_index" : "products", "_id" : "549" } }
+{"marketplace": "US", "title": "Ice Cream - Vanilla", "price": 60.37}
+{ "index" : { "_index" : "products", "_id" : "550" } }
+{"marketplace": "CA", "title": "Eggplant Italian", "price": 94.41}
+{ "index" : { "_index" : "products", "_id" : "551" } }
+{"marketplace": "CA", "title": "Slt - Individual Portions", "price": 42.06}
+{ "index" : { "_index" : "products", "_id" : "552" } }
+{"marketplace": "US", "title": "Crab - Claws, 26 - 30", "price": 96.88}
+{ "index" : { "_index" : "products", "_id" : "553" } }
+{"marketplace": "US", "title": "Wine - Zinfandel Rosenblum", "price": 73.78}
+{ "index" : { "_index" : "products", "_id" : "554" } }
+{"marketplace": "US", "title": "Wine - Red, Pelee Island Merlot", "price": 58.18}
+{ "index" : { "_index" : "products", "_id" : "555" } }
+{"marketplace": "CA", "title": "Split Peas - Green, Dry", "price": 42.67}
+{ "index" : { "_index" : "products", "_id" : "556" } }
+{"marketplace": "CA", "title": "Trueblue - Blueberry", "price": 38.66}
+{ "index" : { "_index" : "products", "_id" : "557" } }
+{"marketplace": "CA", "title": "Parsnip", "price": 63.12}
+{ "index" : { "_index" : "products", "_id" : "558" } }
+{"marketplace": "MX", "title": "Wine - Pinot Noir Mondavi Coastal", "price": 39.9}
+{ "index" : { "_index" : "products", "_id" : "559" } }
+{"marketplace": "MX", "title": "Ice Cream Bar - Oreo Sandwich", "price": 61.5}
+{ "index" : { "_index" : "products", "_id" : "560" } }
+{"marketplace": "US", "title": "Coconut - Whole", "price": 96.18}
+{ "index" : { "_index" : "products", "_id" : "561" } }
+{"marketplace": "MX", "title": "Red Cod Fillets - 225g", "price": 35.96}
+{ "index" : { "_index" : "products", "_id" : "562" } }
+{"marketplace": "US", "title": "Shrimp, Dried, Small / Lb", "price": 23.2}
+{ "index" : { "_index" : "products", "_id" : "563" } }
+{"marketplace": "US", "title": "Pork - Butt, Boneless", "price": 65.58}
+{ "index" : { "_index" : "products", "_id" : "564" } }
+{"marketplace": "US", "title": "Wine - White, Concha Y Toro", "price": 38.46}
+{ "index" : { "_index" : "products", "_id" : "565" } }
+{"marketplace": "MX", "title": "Lamb - Whole, Fresh", "price": 35.02}
+{ "index" : { "_index" : "products", "_id" : "566" } }
+{"marketplace": "CA", "title": "Soup - Campbells, Beef Barley", "price": 76.44}
+{ "index" : { "_index" : "products", "_id" : "567" } }
+{"marketplace": "US", "title": "Juice - Apple, 500 Ml", "price": 51.95}
+{ "index" : { "_index" : "products", "_id" : "568" } }
+{"marketplace": "US", "title": "Icecream Cone - Areo Chocolate", "price": 25.42}
+{ "index" : { "_index" : "products", "_id" : "569" } }
+{"marketplace": "CA", "title": "Fish - Soup Base, Bouillon", "price": 57.99}
+{ "index" : { "_index" : "products", "_id" : "570" } }
+{"marketplace": "US", "title": "Yoghurt Tubes", "price": 87.23}
+{ "index" : { "_index" : "products", "_id" : "571" } }
+{"marketplace": "CA", "title": "Container Clear 8 Oz", "price": 95.7}
+{ "index" : { "_index" : "products", "_id" : "572" } }
+{"marketplace": "US", "title": "Coffee - Ristretto Coffee Capsule", "price": 39.06}
+{ "index" : { "_index" : "products", "_id" : "573" } }
+{"marketplace": "CA", "title": "Jack Daniels", "price": 86.19}
+{ "index" : { "_index" : "products", "_id" : "574" } }
+{"marketplace": "CA", "title": "Cookies - Englishbay Chochip", "price": 74.29}
+{ "index" : { "_index" : "products", "_id" : "575" } }
+{"marketplace": "MX", "title": "Mini - Vol Au Vents", "price": 90.83}
+{ "index" : { "_index" : "products", "_id" : "576" } }
+{"marketplace": "MX", "title": "Wine - White, Ej", "price": 76.19}
+{ "index" : { "_index" : "products", "_id" : "577" } }
+{"marketplace": "US", "title": "Browning Caramel Glace", "price": 43.05}
+{ "index" : { "_index" : "products", "_id" : "578" } }
+{"marketplace": "MX", "title": "Extract - Raspberry", "price": 26.22}
+{ "index" : { "_index" : "products", "_id" : "579" } }
+{"marketplace": "MX", "title": "Pepsi - 600ml", "price": 33.9}
+{ "index" : { "_index" : "products", "_id" : "580" } }
+{"marketplace": "US", "title": "Pork - Kidney", "price": 62.13}
+{ "index" : { "_index" : "products", "_id" : "581" } }
+{"marketplace": "US", "title": "Bay Leaf Ground", "price": 68.56}
+{ "index" : { "_index" : "products", "_id" : "582" } }
+{"marketplace": "US", "title": "Syrup - Monin, Amaretta", "price": 41.88}
+{ "index" : { "_index" : "products", "_id" : "583" } }
+{"marketplace": "CA", "title": "Cake - Bande Of Fruit", "price": 72.03}
+{ "index" : { "_index" : "products", "_id" : "584" } }
+{"marketplace": "US", "title": "Nacho Chips", "price": 51.33}
+{ "index" : { "_index" : "products", "_id" : "585" } }
+{"marketplace": "MX", "title": "Potato - Sweet", "price": 64.04}
+{ "index" : { "_index" : "products", "_id" : "586" } }
+{"marketplace": "US", "title": "Beer - Heinekin", "price": 23.19}
+{ "index" : { "_index" : "products", "_id" : "587" } }
+{"marketplace": "US", "title": "Cleaner - Comet", "price": 33.9}
+{ "index" : { "_index" : "products", "_id" : "588" } }
+{"marketplace": "MX", "title": "Yeast Dry - Fleischman", "price": 53.0}
+{ "index" : { "_index" : "products", "_id" : "589" } }
+{"marketplace": "US", "title": "Lid - 16 Oz And 32 Oz", "price": 65.74}
+{ "index" : { "_index" : "products", "_id" : "590" } }
+{"marketplace": "MX", "title": "Red Cod Fillets - 225g", "price": 46.87}
+{ "index" : { "_index" : "products", "_id" : "591" } }
+{"marketplace": "US", "title": "Cheese - Valancey", "price": 87.24}
+{ "index" : { "_index" : "products", "_id" : "592" } }
+{"marketplace": "MX", "title": "Bread - Raisin Walnut Oval", "price": 64.49}
+{ "index" : { "_index" : "products", "_id" : "593" } }
+{"marketplace": "US", "title": "Wine - Semi Dry Riesling Vineland", "price": 30.79}
+{ "index" : { "_index" : "products", "_id" : "594" } }
+{"marketplace": "US", "title": "Carbonated Water - Lemon Lime", "price": 26.3}
+{ "index" : { "_index" : "products", "_id" : "595" } }
+{"marketplace": "US", "title": "Energy - Boo - Koo", "price": 33.65}
+{ "index" : { "_index" : "products", "_id" : "596" } }
+{"marketplace": "US", "title": "Crab - Soft Shell", "price": 42.31}
+{ "index" : { "_index" : "products", "_id" : "597" } }
+{"marketplace": "US", "title": "Napkin - Dinner, White", "price": 64.16}
+{ "index" : { "_index" : "products", "_id" : "598" } }
+{"marketplace": "US", "title": "Tart - Raisin And Pecan", "price": 48.62}
+{ "index" : { "_index" : "products", "_id" : "599" } }
+{"marketplace": "CA", "title": "Cheese - Blue", "price": 89.75}
+{ "index" : { "_index" : "products", "_id" : "600" } }
+{"marketplace": "CA", "title": "Chip - Potato Dill Pickle", "price": 67.16}
+{ "index" : { "_index" : "products", "_id" : "601" } }
+{"marketplace": "CA", "title": "Nacho Chips", "price": 40.56}
+{ "index" : { "_index" : "products", "_id" : "602" } }
+{"marketplace": "US", "title": "Soup - Campbells, Spinach Crm", "price": 65.19}
+{ "index" : { "_index" : "products", "_id" : "603" } }
+{"marketplace": "US", "title": "Glaze - Clear", "price": 63.65}
+{ "index" : { "_index" : "products", "_id" : "604" } }
+{"marketplace": "CA", "title": "Wine - Vovray Sec Domaine Huet", "price": 32.15}
+{ "index" : { "_index" : "products", "_id" : "605" } }
+{"marketplace": "MX", "title": "Coffee - Egg Nog Capuccino", "price": 61.4}
+{ "index" : { "_index" : "products", "_id" : "606" } }
+{"marketplace": "US", "title": "Sugar - Splenda Sweetener", "price": 50.57}
+{ "index" : { "_index" : "products", "_id" : "607" } }
+{"marketplace": "US", "title": "Mushroom - Shitake, Fresh", "price": 76.24}
+{ "index" : { "_index" : "products", "_id" : "608" } }
+{"marketplace": "MX", "title": "Pastry - Chocolate Marble Tea", "price": 29.49}
+{ "index" : { "_index" : "products", "_id" : "609" } }
+{"marketplace": "US", "title": "Latex Rubber Gloves Size 9", "price": 39.58}
+{ "index" : { "_index" : "products", "_id" : "610" } }
+{"marketplace": "CA", "title": "Creme De Menth - White", "price": 49.42}
+{ "index" : { "_index" : "products", "_id" : "611" } }
+{"marketplace": "MX", "title": "Lemonade - Mandarin, 591 Ml", "price": 97.31}
+{ "index" : { "_index" : "products", "_id" : "612" } }
+{"marketplace": "CA", "title": "Kiwi Gold Zespri", "price": 34.14}
+{ "index" : { "_index" : "products", "_id" : "613" } }
+{"marketplace": "CA", "title": "Pear - Halves", "price": 72.4}
+{ "index" : { "_index" : "products", "_id" : "614" } }
+{"marketplace": "MX", "title": "Pork - Tenderloin, Fresh", "price": 74.19}
+{ "index" : { "_index" : "products", "_id" : "615" } }
+{"marketplace": "US", "title": "Squid Ink", "price": 20.66}
+{ "index" : { "_index" : "products", "_id" : "616" } }
+{"marketplace": "CA", "title": "Soup Campbells", "price": 27.62}
+{ "index" : { "_index" : "products", "_id" : "617" } }
+{"marketplace": "MX", "title": "Apple - Delicious, Red", "price": 99.75}
+{ "index" : { "_index" : "products", "_id" : "618" } }
+{"marketplace": "CA", "title": "Bread - Pita, Mini", "price": 57.9}
+{ "index" : { "_index" : "products", "_id" : "619" } }
+{"marketplace": "US", "title": "Soupcontfoam16oz 116con", "price": 75.64}
+{ "index" : { "_index" : "products", "_id" : "620" } }
+{"marketplace": "MX", "title": "Butter Balls Salted", "price": 84.02}
+{ "index" : { "_index" : "products", "_id" : "621" } }
+{"marketplace": "MX", "title": "Veal - Loin", "price": 79.59}
+{ "index" : { "_index" : "products", "_id" : "622" } }
+{"marketplace": "US", "title": "Huck Towels White", "price": 82.99}
+{ "index" : { "_index" : "products", "_id" : "623" } }
+{"marketplace": "US", "title": "Pepper - Green, Chili", "price": 43.14}
+{ "index" : { "_index" : "products", "_id" : "624" } }
+{"marketplace": "CA", "title": "Ice - Clear, 300 Lb For Carving", "price": 26.76}
+{ "index" : { "_index" : "products", "_id" : "625" } }
+{"marketplace": "US", "title": "Pepper - Roasted Red", "price": 80.53}
+{ "index" : { "_index" : "products", "_id" : "626" } }
+{"marketplace": "US", "title": "Wine - Red, Mosaic Zweigelt", "price": 56.03}
+{ "index" : { "_index" : "products", "_id" : "627" } }
+{"marketplace": "CA", "title": "Beef - Rib Roast, Capless", "price": 68.65}
+{ "index" : { "_index" : "products", "_id" : "628" } }
+{"marketplace": "CA", "title": "Yeast Dry - Fleischman", "price": 58.69}
+{ "index" : { "_index" : "products", "_id" : "629" } }
+{"marketplace": "US", "title": "Cinnamon Rolls", "price": 81.89}
+{ "index" : { "_index" : "products", "_id" : "630" } }
+{"marketplace": "US", "title": "Wine - Penfolds Koonuga Hill", "price": 98.38}
+{ "index" : { "_index" : "products", "_id" : "631" } }
+{"marketplace": "US", "title": "Fuji Apples", "price": 88.84}
+{ "index" : { "_index" : "products", "_id" : "632" } }
+{"marketplace": "US", "title": "Table Cloth 62x120 White", "price": 83.34}
+{ "index" : { "_index" : "products", "_id" : "633" } }
+{"marketplace": "US", "title": "Juice - Cranberry 284ml", "price": 41.44}
+{ "index" : { "_index" : "products", "_id" : "634" } }
+{"marketplace": "MX", "title": "Bread Crumbs - Panko", "price": 40.92}
+{ "index" : { "_index" : "products", "_id" : "635" } }
+{"marketplace": "US", "title": "Vaccum Bag - 14x20", "price": 33.96}
+{ "index" : { "_index" : "products", "_id" : "636" } }
+{"marketplace": "US", "title": "Spice - Paprika", "price": 75.56}
+{ "index" : { "_index" : "products", "_id" : "637" } }
+{"marketplace": "US", "title": "Limes", "price": 36.61}
+{ "index" : { "_index" : "products", "_id" : "638" } }
+{"marketplace": "US", "title": "Butcher Twine 4r", "price": 33.75}
+{ "index" : { "_index" : "products", "_id" : "639" } }
+{"marketplace": "US", "title": "Tomato - Plum With Basil", "price": 87.32}
+{ "index" : { "_index" : "products", "_id" : "640" } }
+{"marketplace": "CA", "title": "Ecolab - Power Fusion", "price": 47.7}
+{ "index" : { "_index" : "products", "_id" : "641" } }
+{"marketplace": "US", "title": "Cabbage - Red", "price": 44.01}
+{ "index" : { "_index" : "products", "_id" : "642" } }
+{"marketplace": "MX", "title": "Cake - Bande Of Fruit", "price": 97.04}
+{ "index" : { "_index" : "products", "_id" : "643" } }
+{"marketplace": "US", "title": "Extract - Almond", "price": 72.59}
+{ "index" : { "_index" : "products", "_id" : "644" } }
+{"marketplace": "CA", "title": "Chicken Thigh - Bone Out", "price": 89.29}
+{ "index" : { "_index" : "products", "_id" : "645" } }
+{"marketplace": "US", "title": "Cheese - La Sauvagine", "price": 66.35}
+{ "index" : { "_index" : "products", "_id" : "646" } }
+{"marketplace": "US", "title": "Cake Circle, Paprus", "price": 56.76}
+{ "index" : { "_index" : "products", "_id" : "647" } }
+{"marketplace": "MX", "title": "Nut - Chestnuts, Whole", "price": 99.65}
+{ "index" : { "_index" : "products", "_id" : "648" } }
+{"marketplace": "MX", "title": "Soup Campbells Beef With Veg", "price": 59.12}
+{ "index" : { "_index" : "products", "_id" : "649" } }
+{"marketplace": "MX", "title": "Shrimp - 31/40", "price": 94.29}
+{ "index" : { "_index" : "products", "_id" : "650" } }
+{"marketplace": "MX", "title": "Crab - Dungeness, Whole, live", "price": 63.5}
+{ "index" : { "_index" : "products", "_id" : "651" } }
+{"marketplace": "MX", "title": "Soupcontfoam16oz 116con", "price": 75.35}
+{ "index" : { "_index" : "products", "_id" : "652" } }
+{"marketplace": "CA", "title": "Beef Ground Medium", "price": 26.23}
+{ "index" : { "_index" : "products", "_id" : "653" } }
+{"marketplace": "US", "title": "Oil - Margarine", "price": 48.05}
+{ "index" : { "_index" : "products", "_id" : "654" } }
+{"marketplace": "US", "title": "Green Tea Refresher", "price": 30.7}
+{ "index" : { "_index" : "products", "_id" : "655" } }
+{"marketplace": "US", "title": "Sobe - Cranberry Grapefruit", "price": 62.92}
+{ "index" : { "_index" : "products", "_id" : "656" } }
+{"marketplace": "US", "title": "Clementine", "price": 42.15}
+{ "index" : { "_index" : "products", "_id" : "657" } }
+{"marketplace": "US", "title": "Celery Root", "price": 90.76}
+{ "index" : { "_index" : "products", "_id" : "658" } }
+{"marketplace": "US", "title": "Pasta - Spaghetti, Dry", "price": 56.98}
+{ "index" : { "_index" : "products", "_id" : "659" } }
+{"marketplace": "US", "title": "Tart Shells - Savory, 3", "price": 46.27}
+{ "index" : { "_index" : "products", "_id" : "660" } }
+{"marketplace": "US", "title": "Bread Crumbs - Japanese Style", "price": 36.25}
+{ "index" : { "_index" : "products", "_id" : "661" } }
+{"marketplace": "CA", "title": "Wood Chips - Regular", "price": 24.19}
+{ "index" : { "_index" : "products", "_id" : "662" } }
+{"marketplace": "CA", "title": "Wine - Magnotta - Red, Baco", "price": 42.06}
+{ "index" : { "_index" : "products", "_id" : "663" } }
+{"marketplace": "MX", "title": "Snapple Lemon Tea", "price": 51.3}
+{ "index" : { "_index" : "products", "_id" : "664" } }
+{"marketplace": "US", "title": "Beef Striploin Aaa", "price": 69.17}
+{ "index" : { "_index" : "products", "_id" : "665" } }
+{"marketplace": "MX", "title": "Nut - Pistachio, Shelled", "price": 62.7}
+{ "index" : { "_index" : "products", "_id" : "666" } }
+{"marketplace": "US", "title": "Cheese - Perron Cheddar", "price": 52.49}
+{ "index" : { "_index" : "products", "_id" : "667" } }
+{"marketplace": "US", "title": "Paper Cocktail Umberlla 80 - 180", "price": 45.69}
+{ "index" : { "_index" : "products", "_id" : "668" } }
+{"marketplace": "US", "title": "Cheese - Feta", "price": 56.85}
+{ "index" : { "_index" : "products", "_id" : "669" } }
+{"marketplace": "MX", "title": "Cocoa Powder - Dutched", "price": 38.09}
+{ "index" : { "_index" : "products", "_id" : "670" } }
+{"marketplace": "CA", "title": "Towel Dispenser", "price": 24.13}
+{ "index" : { "_index" : "products", "_id" : "671" } }
+{"marketplace": "US", "title": "Bread - Olive Dinner Roll", "price": 43.05}
+{ "index" : { "_index" : "products", "_id" : "672" } }
+{"marketplace": "US", "title": "Sage Ground Wiberg", "price": 42.4}
+{ "index" : { "_index" : "products", "_id" : "673" } }
+{"marketplace": "CA", "title": "Chicken - Wings, Tip Off", "price": 59.91}
+{ "index" : { "_index" : "products", "_id" : "674" } }
+{"marketplace": "MX", "title": "Soup - French Onion", "price": 58.9}
+{ "index" : { "_index" : "products", "_id" : "675" } }
+{"marketplace": "US", "title": "Cheese - Goat With Herbs", "price": 22.51}
+{ "index" : { "_index" : "products", "_id" : "676" } }
+{"marketplace": "US", "title": "Trueblue - Blueberry 12x473ml", "price": 65.34}
+{ "index" : { "_index" : "products", "_id" : "677" } }
+{"marketplace": "CA", "title": "Cheese - Ricotta", "price": 35.48}
+{ "index" : { "_index" : "products", "_id" : "678" } }
+{"marketplace": "CA", "title": "Five Alive Citrus", "price": 56.84}
+{ "index" : { "_index" : "products", "_id" : "679" } }
+{"marketplace": "CA", "title": "Food Colouring - Blue", "price": 78.84}
+{ "index" : { "_index" : "products", "_id" : "680" } }
+{"marketplace": "US", "title": "Pasta - Lasagne, Fresh", "price": 56.6}
+{ "index" : { "_index" : "products", "_id" : "681" } }
+{"marketplace": "US", "title": "Onions - Green", "price": 47.65}
+{ "index" : { "_index" : "products", "_id" : "682" } }
+{"marketplace": "US", "title": "Tea - Herbal - 6 Asst", "price": 53.19}
+{ "index" : { "_index" : "products", "_id" : "683" } }
+{"marketplace": "MX", "title": "Pickerel - Fillets", "price": 92.84}
+{ "index" : { "_index" : "products", "_id" : "684" } }
+{"marketplace": "MX", "title": "Lumpfish Black", "price": 88.56}
+{ "index" : { "_index" : "products", "_id" : "685" } }
+{"marketplace": "MX", "title": "Turkey Leg With Drum And Thigh", "price": 87.75}
+{ "index" : { "_index" : "products", "_id" : "686" } }
+{"marketplace": "US", "title": "Coffee Cup 8oz 5338cd", "price": 82.14}
+{ "index" : { "_index" : "products", "_id" : "687" } }
+{"marketplace": "MX", "title": "Lemonade - Black Cherry, 591 Ml", "price": 34.45}
+{ "index" : { "_index" : "products", "_id" : "688" } }
+{"marketplace": "US", "title": "Apron", "price": 92.0}
+{ "index" : { "_index" : "products", "_id" : "689" } }
+{"marketplace": "CA", "title": "Bag Stand", "price": 64.16}
+{ "index" : { "_index" : "products", "_id" : "690" } }
+{"marketplace": "MX", "title": "Crab - Blue, Frozen", "price": 90.83}
+{ "index" : { "_index" : "products", "_id" : "691" } }
+{"marketplace": "US", "title": "Oven Mitt - 13 Inch", "price": 48.32}
+{ "index" : { "_index" : "products", "_id" : "692" } }
+{"marketplace": "CA", "title": "Rambutan", "price": 22.67}
+{ "index" : { "_index" : "products", "_id" : "693" } }
+{"marketplace": "US", "title": "Bread - Wheat Baguette", "price": 53.27}
+{ "index" : { "_index" : "products", "_id" : "694" } }
+{"marketplace": "US", "title": "Filo Dough", "price": 47.0}
+{ "index" : { "_index" : "products", "_id" : "695" } }
+{"marketplace": "US", "title": "Duck - Legs", "price": 92.02}
+{ "index" : { "_index" : "products", "_id" : "696" } }
+{"marketplace": "MX", "title": "Cherries - Bing, Canned", "price": 59.64}
+{ "index" : { "_index" : "products", "_id" : "697" } }
+{"marketplace": "CA", "title": "Sobe - Green Tea", "price": 67.06}
+{ "index" : { "_index" : "products", "_id" : "698" } }
+{"marketplace": "US", "title": "Venison - Liver", "price": 69.5}
+{ "index" : { "_index" : "products", "_id" : "699" } }
+{"marketplace": "CA", "title": "Lime Cordial - Roses", "price": 39.71}
+{ "index" : { "_index" : "products", "_id" : "700" } }
+{"marketplace": "CA", "title": "Coffee Beans - Chocolate", "price": 59.8}
+{ "index" : { "_index" : "products", "_id" : "701" } }
+{"marketplace": "US", "title": "Sloe Gin - Mcguinness", "price": 67.21}
+{ "index" : { "_index" : "products", "_id" : "702" } }
+{"marketplace": "CA", "title": "Napkin - Dinner, White", "price": 22.35}
+{ "index" : { "_index" : "products", "_id" : "703" } }
+{"marketplace": "US", "title": "Coke - Classic, 355 Ml", "price": 85.59}
+{ "index" : { "_index" : "products", "_id" : "704" } }
+{"marketplace": "US", "title": "Mustard - Dijon", "price": 55.61}
+{ "index" : { "_index" : "products", "_id" : "705" } }
+{"marketplace": "MX", "title": "Mushroom - Morel Frozen", "price": 61.87}
+{ "index" : { "_index" : "products", "_id" : "706" } }
+{"marketplace": "CA", "title": "Wine - Hardys Bankside Shiraz", "price": 84.91}
+{ "index" : { "_index" : "products", "_id" : "707" } }
+{"marketplace": "MX", "title": "Lighter - Bbq", "price": 76.93}
+{ "index" : { "_index" : "products", "_id" : "708" } }
+{"marketplace": "US", "title": "Tray - Foam, Square 4 - S", "price": 62.48}
+{ "index" : { "_index" : "products", "_id" : "709" } }
+{"marketplace": "US", "title": "Wine - Magnotta - Cab Franc", "price": 56.94}
+{ "index" : { "_index" : "products", "_id" : "710" } }
+{"marketplace": "US", "title": "Breadfruit", "price": 50.89}
+{ "index" : { "_index" : "products", "_id" : "711" } }
+{"marketplace": "MX", "title": "Wine - Lou Black Shiraz", "price": 95.78}
+{ "index" : { "_index" : "products", "_id" : "712" } }
+{"marketplace": "US", "title": "Plasticknivesblack", "price": 79.39}
+{ "index" : { "_index" : "products", "_id" : "713" } }
+{"marketplace": "US", "title": "Alize Gold Passion", "price": 42.36}
+{ "index" : { "_index" : "products", "_id" : "714" } }
+{"marketplace": "MX", "title": "Wine - Magnotta - Pinot Gris Sr", "price": 84.33}
+{ "index" : { "_index" : "products", "_id" : "715" } }
+{"marketplace": "CA", "title": "Pastry - Choclate Baked", "price": 29.59}
+{ "index" : { "_index" : "products", "_id" : "716" } }
+{"marketplace": "US", "title": "Pasta - Rotini, Colour, Dry", "price": 67.48}
+{ "index" : { "_index" : "products", "_id" : "717" } }
+{"marketplace": "MX", "title": "Ham - Black Forest", "price": 75.07}
+{ "index" : { "_index" : "products", "_id" : "718" } }
+{"marketplace": "MX", "title": "Zucchini - Green", "price": 23.48}
+{ "index" : { "_index" : "products", "_id" : "719" } }
+{"marketplace": "US", "title": "Pork - Smoked Back Bacon", "price": 59.13}
+{ "index" : { "_index" : "products", "_id" : "720" } }
+{"marketplace": "CA", "title": "Prunes - Pitted", "price": 25.39}
+{ "index" : { "_index" : "products", "_id" : "721" } }
+{"marketplace": "CA", "title": "Silicone Paper 16.5x24", "price": 94.4}
+{ "index" : { "_index" : "products", "_id" : "722" } }
+{"marketplace": "US", "title": "Cup - Paper 10oz 92959", "price": 77.73}
+{ "index" : { "_index" : "products", "_id" : "723" } }
+{"marketplace": "CA", "title": "Extract - Lemon", "price": 29.64}
+{ "index" : { "_index" : "products", "_id" : "724" } }
+{"marketplace": "US", "title": "Cake - Cheese Cake 9 Inch", "price": 99.0}
+{ "index" : { "_index" : "products", "_id" : "725" } }
+{"marketplace": "CA", "title": "Appetizer - Sausage Rolls", "price": 99.66}
+{ "index" : { "_index" : "products", "_id" : "726" } }
+{"marketplace": "MX", "title": "Shrimp - Prawn", "price": 29.2}
+{ "index" : { "_index" : "products", "_id" : "727" } }
+{"marketplace": "US", "title": "Chervil - Fresh", "price": 83.48}
+{ "index" : { "_index" : "products", "_id" : "728" } }
+{"marketplace": "US", "title": "Ham - Black Forest", "price": 97.3}
+{ "index" : { "_index" : "products", "_id" : "729" } }
+{"marketplace": "US", "title": "Butcher Twine 4r", "price": 84.34}
+{ "index" : { "_index" : "products", "_id" : "730" } }
+{"marketplace": "US", "title": "Peach - Halves", "price": 36.03}
+{ "index" : { "_index" : "products", "_id" : "731" } }
+{"marketplace": "MX", "title": "Samosa - Veg", "price": 77.65}
+{ "index" : { "_index" : "products", "_id" : "732" } }
+{"marketplace": "CA", "title": "Energy Drink", "price": 55.71}
+{ "index" : { "_index" : "products", "_id" : "733" } }
+{"marketplace": "CA", "title": "Garlic - Peeled", "price": 98.35}
+{ "index" : { "_index" : "products", "_id" : "734" } }
+{"marketplace": "MX", "title": "Tart - Lemon", "price": 83.9}
+{ "index" : { "_index" : "products", "_id" : "735" } }
+{"marketplace": "MX", "title": "Potatoes - Peeled", "price": 23.66}
+{ "index" : { "_index" : "products", "_id" : "736" } }
+{"marketplace": "MX", "title": "Flour - Cake", "price": 82.92}
+{ "index" : { "_index" : "products", "_id" : "737" } }
+{"marketplace": "US", "title": "Tuna - Sushi Grade", "price": 89.12}
+{ "index" : { "_index" : "products", "_id" : "738" } }
+{"marketplace": "US", "title": "Veal - Knuckle", "price": 27.58}
+{ "index" : { "_index" : "products", "_id" : "739" } }
+{"marketplace": "US", "title": "Bay Leaf Ground", "price": 93.26}
+{ "index" : { "_index" : "products", "_id" : "740" } }
+{"marketplace": "US", "title": "Danishes - Mini Cheese", "price": 87.76}
+{ "index" : { "_index" : "products", "_id" : "741" } }
+{"marketplace": "US", "title": "Crab Meat Claw Pasteurise", "price": 75.29}
+{ "index" : { "_index" : "products", "_id" : "742" } }
+{"marketplace": "US", "title": "General Purpose Trigger", "price": 52.07}
+{ "index" : { "_index" : "products", "_id" : "743" } }
+{"marketplace": "US", "title": "Roe - Lump Fish, Red", "price": 37.41}
+{ "index" : { "_index" : "products", "_id" : "744" } }
+{"marketplace": "US", "title": "Wine - Red, Pelee Island Merlot", "price": 89.44}
+{ "index" : { "_index" : "products", "_id" : "745" } }
+{"marketplace": "US", "title": "Rice - Basmati", "price": 77.15}
+{ "index" : { "_index" : "products", "_id" : "746" } }
+{"marketplace": "MX", "title": "Water - Aquafina Vitamin", "price": 59.79}
+{ "index" : { "_index" : "products", "_id" : "747" } }
+{"marketplace": "CA", "title": "Daves Island Stinger", "price": 20.73}
+{ "index" : { "_index" : "products", "_id" : "748" } }
+{"marketplace": "MX", "title": "Bar - Sweet And Salty Chocolate", "price": 52.68}
+{ "index" : { "_index" : "products", "_id" : "749" } }
+{"marketplace": "US", "title": "Longos - Chicken Caeser Salad", "price": 92.98}
+{ "index" : { "_index" : "products", "_id" : "750" } }
+{"marketplace": "MX", "title": "Sauce - White, Mix", "price": 28.25}
+{ "index" : { "_index" : "products", "_id" : "751" } }
+{"marketplace": "US", "title": "Syrup - Chocolate", "price": 39.6}
+{ "index" : { "_index" : "products", "_id" : "752" } }
+{"marketplace": "CA", "title": "Flour - All Purpose", "price": 48.75}
+{ "index" : { "_index" : "products", "_id" : "753" } }
+{"marketplace": "US", "title": "Tamarillo", "price": 22.39}
+{ "index" : { "_index" : "products", "_id" : "754" } }
+{"marketplace": "CA", "title": "Plate Foam Laminated 9in Blk", "price": 31.51}
+{ "index" : { "_index" : "products", "_id" : "755" } }
+{"marketplace": "MX", "title": "Skewers - Bamboo", "price": 43.45}
+{ "index" : { "_index" : "products", "_id" : "756" } }
+{"marketplace": "CA", "title": "Oats Large Flake", "price": 89.46}
+{ "index" : { "_index" : "products", "_id" : "757" } }
+{"marketplace": "MX", "title": "Chicken - Leg, Boneless", "price": 58.6}
+{ "index" : { "_index" : "products", "_id" : "758" } }
+{"marketplace": "MX", "title": "Green Tea Refresher", "price": 67.36}
+{ "index" : { "_index" : "products", "_id" : "759" } }
+{"marketplace": "US", "title": "Muffin Batt - Choc Chk", "price": 87.51}
+{ "index" : { "_index" : "products", "_id" : "760" } }
+{"marketplace": "MX", "title": "Soup - Campbells Mushroom", "price": 34.54}
+{ "index" : { "_index" : "products", "_id" : "761" } }
+{"marketplace": "MX", "title": "Asparagus - White, Canned", "price": 49.36}
+{ "index" : { "_index" : "products", "_id" : "762" } }
+{"marketplace": "MX", "title": "Milk Powder", "price": 25.04}
+{ "index" : { "_index" : "products", "_id" : "763" } }
+{"marketplace": "US", "title": "Scallops - 20/30", "price": 87.78}
+{ "index" : { "_index" : "products", "_id" : "764" } }
+{"marketplace": "CA", "title": "Island Oasis - Pina Colada", "price": 25.22}
+{ "index" : { "_index" : "products", "_id" : "765" } }
+{"marketplace": "CA", "title": "Dried Apple", "price": 86.37}
+{ "index" : { "_index" : "products", "_id" : "766" } }
+{"marketplace": "US", "title": "Pomegranates", "price": 39.86}
+{ "index" : { "_index" : "products", "_id" : "767" } }
+{"marketplace": "US", "title": "Munchies Honey Sweet Trail Mix", "price": 74.63}
+{ "index" : { "_index" : "products", "_id" : "768" } }
+{"marketplace": "US", "title": "Onions - Vidalia", "price": 30.45}
+{ "index" : { "_index" : "products", "_id" : "769" } }
+{"marketplace": "MX", "title": "Mushroom - Shitake, Dry", "price": 89.52}
+{ "index" : { "_index" : "products", "_id" : "770" } }
+{"marketplace": "CA", "title": "Sauce - Demi Glace", "price": 96.35}
+{ "index" : { "_index" : "products", "_id" : "771" } }
+{"marketplace": "MX", "title": "Bread - 10 Grain Parisian", "price": 50.95}
+{ "index" : { "_index" : "products", "_id" : "772" } }
+{"marketplace": "MX", "title": "Cheese - Brick With Onion", "price": 87.26}
+{ "index" : { "_index" : "products", "_id" : "773" } }
+{"marketplace": "US", "title": "Carrots - Mini Red Organic", "price": 78.47}
+{ "index" : { "_index" : "products", "_id" : "774" } }
+{"marketplace": "MX", "title": "Beef - Top Butt", "price": 92.41}
+{ "index" : { "_index" : "products", "_id" : "775" } }
+{"marketplace": "MX", "title": "Clams - Canned", "price": 66.91}
+{ "index" : { "_index" : "products", "_id" : "776" } }
+{"marketplace": "US", "title": "Beets", "price": 86.12}
+{ "index" : { "_index" : "products", "_id" : "777" } }
+{"marketplace": "MX", "title": "Bread Sour Rolls", "price": 93.41}
+{ "index" : { "_index" : "products", "_id" : "778" } }
+{"marketplace": "US", "title": "Sandwich Wrap", "price": 30.19}
+{ "index" : { "_index" : "products", "_id" : "779" } }
+{"marketplace": "MX", "title": "Broom And Brush Rack Black", "price": 35.69}
+{ "index" : { "_index" : "products", "_id" : "780" } }
+{"marketplace": "MX", "title": "Muffin - Mix - Creme Brule 15l", "price": 72.07}
+{ "index" : { "_index" : "products", "_id" : "781" } }
+{"marketplace": "MX", "title": "Beans - Green", "price": 21.0}
+{ "index" : { "_index" : "products", "_id" : "782" } }
+{"marketplace": "MX", "title": "Rabbit - Legs", "price": 63.4}
+{ "index" : { "_index" : "products", "_id" : "783" } }
+{"marketplace": "MX", "title": "Tomato - Plum With Basil", "price": 87.93}
+{ "index" : { "_index" : "products", "_id" : "784" } }
+{"marketplace": "US", "title": "Yams", "price": 33.83}
+{ "index" : { "_index" : "products", "_id" : "785" } }
+{"marketplace": "US", "title": "Hog / Sausage Casing - Pork", "price": 90.16}
+{ "index" : { "_index" : "products", "_id" : "786" } }
+{"marketplace": "CA", "title": "Mini - Vol Au Vents", "price": 33.04}
+{ "index" : { "_index" : "products", "_id" : "787" } }
+{"marketplace": "US", "title": "Lettuce - Spring Mix", "price": 74.3}
+{ "index" : { "_index" : "products", "_id" : "788" } }
+{"marketplace": "US", "title": "Hagen Daza - Dk Choocolate", "price": 64.6}
+{ "index" : { "_index" : "products", "_id" : "789" } }
+{"marketplace": "CA", "title": "Sobe - Lizard Fuel", "price": 44.23}
+{ "index" : { "_index" : "products", "_id" : "790" } }
+{"marketplace": "US", "title": "Lettuce - Mini Greens, Whole", "price": 24.05}
+{ "index" : { "_index" : "products", "_id" : "791" } }
+{"marketplace": "CA", "title": "Juice - Tomato, 48 Oz", "price": 59.43}
+{ "index" : { "_index" : "products", "_id" : "792" } }
+{"marketplace": "CA", "title": "Chocolate Liqueur - Godet White", "price": 84.17}
+{ "index" : { "_index" : "products", "_id" : "793" } }
+{"marketplace": "MX", "title": "Glaze - Apricot", "price": 81.79}
+{ "index" : { "_index" : "products", "_id" : "794" } }
+{"marketplace": "CA", "title": "Cheese - Grie Des Champ", "price": 31.74}
+{ "index" : { "_index" : "products", "_id" : "795" } }
+{"marketplace": "US", "title": "Vodka - Moskovskaya", "price": 21.6}
+{ "index" : { "_index" : "products", "_id" : "796" } }
+{"marketplace": "CA", "title": "Soup - Campbells Chicken", "price": 35.15}
+{ "index" : { "_index" : "products", "_id" : "797" } }
+{"marketplace": "US", "title": "Pasta - Agnolotti - Butternut", "price": 35.21}
+{ "index" : { "_index" : "products", "_id" : "798" } }
+{"marketplace": "US", "title": "Juice - Apple Cider", "price": 77.09}
+{ "index" : { "_index" : "products", "_id" : "799" } }
+{"marketplace": "MX", "title": "Chicken - Ground", "price": 55.27}
+{ "index" : { "_index" : "products", "_id" : "800" } }
+{"marketplace": "US", "title": "Kippers - Smoked", "price": 94.21}
+{ "index" : { "_index" : "products", "_id" : "801" } }
+{"marketplace": "US", "title": "Juice - Happy Planet", "price": 76.22}
+{ "index" : { "_index" : "products", "_id" : "802" } }
+{"marketplace": "US", "title": "Bread - Flat Bread", "price": 23.79}
+{ "index" : { "_index" : "products", "_id" : "803" } }
+{"marketplace": "MX", "title": "Soup - Campbells Chili Veg", "price": 64.24}
+{ "index" : { "_index" : "products", "_id" : "804" } }
+{"marketplace": "US", "title": "Gatorade - Orange", "price": 62.69}
+{ "index" : { "_index" : "products", "_id" : "805" } }
+{"marketplace": "CA", "title": "Wine - Red, Gamay Noir", "price": 92.03}
+{ "index" : { "_index" : "products", "_id" : "806" } }
+{"marketplace": "CA", "title": "Eggplant - Regular", "price": 95.01}
+{ "index" : { "_index" : "products", "_id" : "807" } }
+{"marketplace": "US", "title": "Mangostein", "price": 85.87}
+{ "index" : { "_index" : "products", "_id" : "808" } }
+{"marketplace": "MX", "title": "Wine - Pinot Noir Stoneleigh", "price": 52.58}
+{ "index" : { "_index" : "products", "_id" : "809" } }
+{"marketplace": "US", "title": "Dried Peach", "price": 99.03}
+{ "index" : { "_index" : "products", "_id" : "810" } }
+{"marketplace": "US", "title": "Wine - Winzer Krems Gruner", "price": 62.3}
+{ "index" : { "_index" : "products", "_id" : "811" } }
+{"marketplace": "MX", "title": "Coffee - Colombian, Portioned", "price": 94.12}
+{ "index" : { "_index" : "products", "_id" : "812" } }
+{"marketplace": "MX", "title": "Beef - Tongue, Cooked", "price": 84.95}
+{ "index" : { "_index" : "products", "_id" : "813" } }
+{"marketplace": "US", "title": "Horseradish - Prepared", "price": 94.45}
+{ "index" : { "_index" : "products", "_id" : "814" } }
+{"marketplace": "CA", "title": "Strawberries - California", "price": 83.45}
+{ "index" : { "_index" : "products", "_id" : "815" } }
+{"marketplace": "MX", "title": "Coffee - Flavoured", "price": 82.38}
+{ "index" : { "_index" : "products", "_id" : "816" } }
+{"marketplace": "US", "title": "Bread - Flat Bread", "price": 68.37}
+{ "index" : { "_index" : "products", "_id" : "817" } }
+{"marketplace": "MX", "title": "Tabasco Sauce, 2 Oz", "price": 48.3}
+{ "index" : { "_index" : "products", "_id" : "818" } }
+{"marketplace": "CA", "title": "Carrots - Mini Red Organic", "price": 64.25}
+{ "index" : { "_index" : "products", "_id" : "819" } }
+{"marketplace": "MX", "title": "Cakes Assorted", "price": 81.04}
+{ "index" : { "_index" : "products", "_id" : "820" } }
+{"marketplace": "CA", "title": "Wine - Saint - Bris 2002, Sauv", "price": 23.51}
+{ "index" : { "_index" : "products", "_id" : "821" } }
+{"marketplace": "US", "title": "Rabbit - Legs", "price": 86.07}
+{ "index" : { "_index" : "products", "_id" : "822" } }
+{"marketplace": "US", "title": "Energy Drink", "price": 59.23}
+{ "index" : { "_index" : "products", "_id" : "823" } }
+{"marketplace": "US", "title": "Chocolate - Semi Sweet, Calets", "price": 56.87}
+{ "index" : { "_index" : "products", "_id" : "824" } }
+{"marketplace": "US", "title": "Pur Value", "price": 88.27}
+{ "index" : { "_index" : "products", "_id" : "825" } }
+{"marketplace": "MX", "title": "Rabbit - Saddles", "price": 26.65}
+{ "index" : { "_index" : "products", "_id" : "826" } }
+{"marketplace": "CA", "title": "Lid Coffee Cup 8oz Blk", "price": 32.7}
+{ "index" : { "_index" : "products", "_id" : "827" } }
+{"marketplace": "US", "title": "Wine - Magnotta - Belpaese", "price": 41.6}
+{ "index" : { "_index" : "products", "_id" : "828" } }
+{"marketplace": "US", "title": "Dehydrated Kelp Kombo", "price": 86.28}
+{ "index" : { "_index" : "products", "_id" : "829" } }
+{"marketplace": "US", "title": "Tahini Paste", "price": 29.69}
+{ "index" : { "_index" : "products", "_id" : "830" } }
+{"marketplace": "US", "title": "Dry Ice", "price": 54.2}
+{ "index" : { "_index" : "products", "_id" : "831" } }
+{"marketplace": "CA", "title": "Steampan Lid", "price": 99.43}
+{ "index" : { "_index" : "products", "_id" : "832" } }
+{"marketplace": "CA", "title": "Lettuce - Green Leaf", "price": 36.92}
+{ "index" : { "_index" : "products", "_id" : "833" } }
+{"marketplace": "US", "title": "Oil - Margarine", "price": 96.54}
+{ "index" : { "_index" : "products", "_id" : "834" } }
+{"marketplace": "US", "title": "Peppercorns - Pink", "price": 26.14}
+{ "index" : { "_index" : "products", "_id" : "835" } }
+{"marketplace": "CA", "title": "Pie Box - Cello Window 2.5", "price": 29.75}
+{ "index" : { "_index" : "products", "_id" : "836" } }
+{"marketplace": "CA", "title": "Wine - Piper Heidsieck Brut", "price": 70.74}
+{ "index" : { "_index" : "products", "_id" : "837" } }
+{"marketplace": "US", "title": "Jolt Cola", "price": 50.37}
+{ "index" : { "_index" : "products", "_id" : "838" } }
+{"marketplace": "US", "title": "Chambord Royal", "price": 21.52}
+{ "index" : { "_index" : "products", "_id" : "839" } }
+{"marketplace": "CA", "title": "Pasta - Orzo, Dry", "price": 80.69}
+{ "index" : { "_index" : "products", "_id" : "840" } }
+{"marketplace": "US", "title": "Bread Sour Rolls", "price": 87.15}
+{ "index" : { "_index" : "products", "_id" : "841" } }
+{"marketplace": "US", "title": "Trout - Rainbow, Frozen", "price": 25.01}
+{ "index" : { "_index" : "products", "_id" : "842" } }
+{"marketplace": "CA", "title": "Ecolab - Hand Soap Form Antibac", "price": 76.24}
+{ "index" : { "_index" : "products", "_id" : "843" } }
+{"marketplace": "US", "title": "Hot Choc Vending", "price": 41.49}
+{ "index" : { "_index" : "products", "_id" : "844" } }
+{"marketplace": "MX", "title": "Pie Shells 10", "price": 25.69}
+{ "index" : { "_index" : "products", "_id" : "845" } }
+{"marketplace": "US", "title": "Munchies Honey Sweet Trail Mix", "price": 93.94}
+{ "index" : { "_index" : "products", "_id" : "846" } }
+{"marketplace": "US", "title": "Spring Roll Veg Mini", "price": 35.82}
+{ "index" : { "_index" : "products", "_id" : "847" } }
+{"marketplace": "US", "title": "Aspic - Clear", "price": 90.83}
+{ "index" : { "_index" : "products", "_id" : "848" } }
+{"marketplace": "MX", "title": "Cape Capensis - Fillet", "price": 66.46}
+{ "index" : { "_index" : "products", "_id" : "849" } }
+{"marketplace": "CA", "title": "Nectarines", "price": 35.9}
+{ "index" : { "_index" : "products", "_id" : "850" } }
+{"marketplace": "CA", "title": "Appetizer - Mango Chevre", "price": 95.7}
+{ "index" : { "_index" : "products", "_id" : "851" } }
+{"marketplace": "MX", "title": "Pepper - Green", "price": 62.61}
+{ "index" : { "_index" : "products", "_id" : "852" } }
+{"marketplace": "CA", "title": "Wine - Ruffino Chianti", "price": 47.46}
+{ "index" : { "_index" : "products", "_id" : "853" } }
+{"marketplace": "US", "title": "Tamarind Paste", "price": 24.66}
+{ "index" : { "_index" : "products", "_id" : "854" } }
+{"marketplace": "CA", "title": "Syrup - Kahlua Chocolate", "price": 41.3}
+{ "index" : { "_index" : "products", "_id" : "855" } }
+{"marketplace": "MX", "title": "Vinegar - Cider", "price": 56.75}
+{ "index" : { "_index" : "products", "_id" : "856" } }
+{"marketplace": "MX", "title": "Paper Towel Touchless", "price": 48.39}
+{ "index" : { "_index" : "products", "_id" : "857" } }
+{"marketplace": "US", "title": "Dip - Tapenade", "price": 24.2}
+{ "index" : { "_index" : "products", "_id" : "858" } }
+{"marketplace": "US", "title": "Coffee - Dark Roast", "price": 97.18}
+{ "index" : { "_index" : "products", "_id" : "859" } }
+{"marketplace": "US", "title": "Turkey Tenderloin Frozen", "price": 88.6}
+{ "index" : { "_index" : "products", "_id" : "860" } }
+{"marketplace": "MX", "title": "Yogurt - Assorted Pack", "price": 61.66}
+{ "index" : { "_index" : "products", "_id" : "861" } }
+{"marketplace": "US", "title": "Spice - Montreal Steak Spice", "price": 44.5}
+{ "index" : { "_index" : "products", "_id" : "862" } }
+{"marketplace": "US", "title": "Noodles - Steamed Chow Mein", "price": 27.06}
+{ "index" : { "_index" : "products", "_id" : "863" } }
+{"marketplace": "US", "title": "Marzipan 50/50", "price": 45.51}
+{ "index" : { "_index" : "products", "_id" : "864" } }
+{"marketplace": "CA", "title": "Contreau", "price": 80.8}
+{ "index" : { "_index" : "products", "_id" : "865" } }
+{"marketplace": "US", "title": "Cloves - Whole", "price": 64.11}
+{ "index" : { "_index" : "products", "_id" : "866" } }
+{"marketplace": "MX", "title": "Rice - Basmati", "price": 60.24}
+{ "index" : { "_index" : "products", "_id" : "867" } }
+{"marketplace": "MX", "title": "Ham Black Forest", "price": 49.19}
+{ "index" : { "_index" : "products", "_id" : "868" } }
+{"marketplace": "US", "title": "Appetizer - Lobster Phyllo Roll", "price": 61.14}
+{ "index" : { "_index" : "products", "_id" : "869" } }
+{"marketplace": "CA", "title": "Appetizer - Southwestern", "price": 75.54}
+{ "index" : { "_index" : "products", "_id" : "870" } }
+{"marketplace": "MX", "title": "Energy Drink - Franks Pineapple", "price": 69.02}
+{ "index" : { "_index" : "products", "_id" : "871" } }
+{"marketplace": "CA", "title": "Puree - Passion Fruit", "price": 36.6}
+{ "index" : { "_index" : "products", "_id" : "872" } }
+{"marketplace": "CA", "title": "Turkey Leg With Drum And Thigh", "price": 63.71}
+{ "index" : { "_index" : "products", "_id" : "873" } }
+{"marketplace": "MX", "title": "Grapes - Red", "price": 49.37}
+{ "index" : { "_index" : "products", "_id" : "874" } }
+{"marketplace": "US", "title": "Artichoke - Hearts, Canned", "price": 35.38}
+{ "index" : { "_index" : "products", "_id" : "875" } }
+{"marketplace": "CA", "title": "Raspberries - Frozen", "price": 47.88}
+{ "index" : { "_index" : "products", "_id" : "876" } }
+{"marketplace": "US", "title": "French Pastry - Mini Chocolate", "price": 27.24}
+{ "index" : { "_index" : "products", "_id" : "877" } }
+{"marketplace": "CA", "title": "Huck White Towels", "price": 63.6}
+{ "index" : { "_index" : "products", "_id" : "878" } }
+{"marketplace": "US", "title": "Mushroom - Lg - Cello", "price": 22.24}
+{ "index" : { "_index" : "products", "_id" : "879" } }
+{"marketplace": "US", "title": "Nacho Chips", "price": 77.04}
+{ "index" : { "_index" : "products", "_id" : "880" } }
+{"marketplace": "MX", "title": "Beer - Camerons Cream Ale", "price": 27.79}
+{ "index" : { "_index" : "products", "_id" : "881" } }
+{"marketplace": "US", "title": "Basil - Fresh", "price": 86.16}
+{ "index" : { "_index" : "products", "_id" : "882" } }
+{"marketplace": "US", "title": "Mustard - Pommery", "price": 53.12}
+{ "index" : { "_index" : "products", "_id" : "883" } }
+{"marketplace": "US", "title": "Sambuca - Opal Nera", "price": 42.94}
+{ "index" : { "_index" : "products", "_id" : "884" } }
+{"marketplace": "CA", "title": "Wine - Champagne Brut Veuve", "price": 29.29}
+{ "index" : { "_index" : "products", "_id" : "885" } }
+{"marketplace": "MX", "title": "Butter - Salted", "price": 25.54}
+{ "index" : { "_index" : "products", "_id" : "886" } }
+{"marketplace": "CA", "title": "Chicken - Bones", "price": 97.2}
+{ "index" : { "_index" : "products", "_id" : "887" } }
+{"marketplace": "CA", "title": "Rosemary - Dry", "price": 96.63}
+{ "index" : { "_index" : "products", "_id" : "888" } }
+{"marketplace": "US", "title": "Veal - Tenderloin, Untrimmed", "price": 23.47}
+{ "index" : { "_index" : "products", "_id" : "889" } }
+{"marketplace": "MX", "title": "Oranges", "price": 93.49}
+{ "index" : { "_index" : "products", "_id" : "890" } }
+{"marketplace": "US", "title": "Cocoa Powder - Dutched", "price": 89.56}
+{ "index" : { "_index" : "products", "_id" : "891" } }
+{"marketplace": "MX", "title": "Sprouts - Pea", "price": 91.11}
+{ "index" : { "_index" : "products", "_id" : "892" } }
+{"marketplace": "CA", "title": "Pepper - White, Whole", "price": 96.84}
+{ "index" : { "_index" : "products", "_id" : "893" } }
+{"marketplace": "MX", "title": "Beef - Tender Tips", "price": 42.52}
+{ "index" : { "_index" : "products", "_id" : "894" } }
+{"marketplace": "US", "title": "Roe - Lump Fish, Black", "price": 62.22}
+{ "index" : { "_index" : "products", "_id" : "895" } }
+{"marketplace": "US", "title": "Wine - Red, Cabernet Merlot", "price": 22.85}
+{ "index" : { "_index" : "products", "_id" : "896" } }
+{"marketplace": "MX", "title": "Tomato Puree", "price": 89.41}
+{ "index" : { "_index" : "products", "_id" : "897" } }
+{"marketplace": "CA", "title": "Tomatoes - Vine Ripe, Yellow", "price": 92.34}
+{ "index" : { "_index" : "products", "_id" : "898" } }
+{"marketplace": "US", "title": "Puree - Blackcurrant", "price": 63.03}
+{ "index" : { "_index" : "products", "_id" : "899" } }
+{"marketplace": "MX", "title": "Cabbage Roll", "price": 96.99}
+{ "index" : { "_index" : "products", "_id" : "900" } }
+{"marketplace": "MX", "title": "Turkey - Whole, Fresh", "price": 43.18}
+{ "index" : { "_index" : "products", "_id" : "901" } }
+{"marketplace": "US", "title": "Wine - Chateau Aqueria Tavel", "price": 75.46}
+{ "index" : { "_index" : "products", "_id" : "902" } }
+{"marketplace": "US", "title": "Rye Special Old", "price": 43.58}
+{ "index" : { "_index" : "products", "_id" : "903" } }
+{"marketplace": "US", "title": "Lemon Tarts", "price": 95.62}
+{ "index" : { "_index" : "products", "_id" : "904" } }
+{"marketplace": "CA", "title": "Crush - Orange, 355ml", "price": 77.04}
+{ "index" : { "_index" : "products", "_id" : "905" } }
+{"marketplace": "CA", "title": "Basil - Thai", "price": 28.09}
+{ "index" : { "_index" : "products", "_id" : "906" } }
+{"marketplace": "CA", "title": "Soup - Campbells - Chicken Noodle", "price": 69.44}
+{ "index" : { "_index" : "products", "_id" : "907" } }
+{"marketplace": "CA", "title": "Butter Ripple - Phillips", "price": 72.04}
+{ "index" : { "_index" : "products", "_id" : "908" } }
+{"marketplace": "CA", "title": "Remy Red", "price": 97.24}
+{ "index" : { "_index" : "products", "_id" : "909" } }
+{"marketplace": "CA", "title": "Coconut - Shredded, Sweet", "price": 84.85}
+{ "index" : { "_index" : "products", "_id" : "910" } }
+{"marketplace": "US", "title": "Lychee - Canned", "price": 79.76}
+{ "index" : { "_index" : "products", "_id" : "911" } }
+{"marketplace": "US", "title": "Broom - Corn", "price": 46.7}
+{ "index" : { "_index" : "products", "_id" : "912" } }
+{"marketplace": "MX", "title": "Bread - Roll, Italian", "price": 22.36}
+{ "index" : { "_index" : "products", "_id" : "913" } }
+{"marketplace": "MX", "title": "Pan Grease", "price": 94.77}
+{ "index" : { "_index" : "products", "_id" : "914" } }
+{"marketplace": "MX", "title": "Turnip - Mini", "price": 96.2}
+{ "index" : { "_index" : "products", "_id" : "915" } }
+{"marketplace": "US", "title": "Pork - Smoked Kassler", "price": 22.94}
+{ "index" : { "_index" : "products", "_id" : "916" } }
+{"marketplace": "MX", "title": "Higashimaru Usukuchi Soy", "price": 59.42}
+{ "index" : { "_index" : "products", "_id" : "917" } }
+{"marketplace": "CA", "title": "Parsnip", "price": 63.33}
+{ "index" : { "_index" : "products", "_id" : "918" } }
+{"marketplace": "CA", "title": "Bread Sour Rolls", "price": 96.79}
+{ "index" : { "_index" : "products", "_id" : "919" } }
+{"marketplace": "CA", "title": "Sprouts - Bean", "price": 36.93}
+{ "index" : { "_index" : "products", "_id" : "920" } }
+{"marketplace": "MX", "title": "Pepper - Gypsy Pepper", "price": 71.76}
+{ "index" : { "_index" : "products", "_id" : "921" } }
+{"marketplace": "CA", "title": "Sausage - Chorizo", "price": 43.3}
+{ "index" : { "_index" : "products", "_id" : "922" } }
+{"marketplace": "MX", "title": "Cheese - Gouda", "price": 81.63}
+{ "index" : { "_index" : "products", "_id" : "923" } }
+{"marketplace": "US", "title": "Worcestershire Sauce", "price": 23.15}
+{ "index" : { "_index" : "products", "_id" : "924" } }
+{"marketplace": "CA", "title": "Beef - Tenderloin Tails", "price": 73.75}
+{ "index" : { "_index" : "products", "_id" : "925" } }
+{"marketplace": "US", "title": "Shrimp - 16/20, Iqf, Shell On", "price": 23.17}
+{ "index" : { "_index" : "products", "_id" : "926" } }
+{"marketplace": "CA", "title": "Tart Shells - Sweet, 4", "price": 99.63}
+{ "index" : { "_index" : "products", "_id" : "927" } }
+{"marketplace": "US", "title": "Beer - Labatt Blue", "price": 39.33}
+{ "index" : { "_index" : "products", "_id" : "928" } }
+{"marketplace": "US", "title": "Extract - Almond", "price": 25.11}
+{ "index" : { "_index" : "products", "_id" : "929" } }
+{"marketplace": "US", "title": "Cheese - Gorgonzola", "price": 33.54}
+{ "index" : { "_index" : "products", "_id" : "930" } }
+{"marketplace": "CA", "title": "Icecream - Dstk Cml And Fdg", "price": 64.54}
+{ "index" : { "_index" : "products", "_id" : "931" } }
+{"marketplace": "US", "title": "Beer - Alexander Kieths, Pale Ale", "price": 90.37}
+{ "index" : { "_index" : "products", "_id" : "932" } }
+{"marketplace": "US", "title": "Kumquat", "price": 26.59}
+{ "index" : { "_index" : "products", "_id" : "933" } }
+{"marketplace": "US", "title": "Clams - Bay", "price": 74.66}
+{ "index" : { "_index" : "products", "_id" : "934" } }
+{"marketplace": "US", "title": "Cleaner - Lime Away", "price": 47.48}
+{ "index" : { "_index" : "products", "_id" : "935" } }
+{"marketplace": "MX", "title": "Ecolab - Medallion", "price": 29.08}
+{ "index" : { "_index" : "products", "_id" : "936" } }
+{"marketplace": "US", "title": "Ecolab - Power Fusion", "price": 74.91}
+{ "index" : { "_index" : "products", "_id" : "937" } }
+{"marketplace": "US", "title": "Bread Base - Toscano", "price": 26.16}
+{ "index" : { "_index" : "products", "_id" : "938" } }
+{"marketplace": "US", "title": "Pork Loin Cutlets", "price": 67.22}
+{ "index" : { "_index" : "products", "_id" : "939" } }
+{"marketplace": "CA", "title": "Soup - Campbells Beef Stew", "price": 86.63}
+{ "index" : { "_index" : "products", "_id" : "940" } }
+{"marketplace": "US", "title": "Cod - Salted, Boneless", "price": 33.82}
+{ "index" : { "_index" : "products", "_id" : "941" } }
+{"marketplace": "US", "title": "Brandy - Orange, Mc Guiness", "price": 69.56}
+{ "index" : { "_index" : "products", "_id" : "942" } }
+{"marketplace": "CA", "title": "Chips Potato Reg 43g", "price": 63.54}
+{ "index" : { "_index" : "products", "_id" : "943" } }
+{"marketplace": "CA", "title": "Radish - Pickled", "price": 73.53}
+{ "index" : { "_index" : "products", "_id" : "944" } }
+{"marketplace": "MX", "title": "Veal - Inside Round / Top, Lean", "price": 34.35}
+{ "index" : { "_index" : "products", "_id" : "945" } }
+{"marketplace": "US", "title": "Milk - 1%", "price": 59.32}
+{ "index" : { "_index" : "products", "_id" : "946" } }
+{"marketplace": "CA", "title": "Quiche Assorted", "price": 54.83}
+{ "index" : { "_index" : "products", "_id" : "947" } }
+{"marketplace": "US", "title": "Rice - Basmati", "price": 47.55}
+{ "index" : { "_index" : "products", "_id" : "948" } }
+{"marketplace": "US", "title": "Wine - White, Gewurtzraminer", "price": 69.71}
+{ "index" : { "_index" : "products", "_id" : "949" } }
+{"marketplace": "US", "title": "Shark - Loin", "price": 31.34}
+{ "index" : { "_index" : "products", "_id" : "950" } }
+{"marketplace": "MX", "title": "Lobster - Baby, Boiled", "price": 86.98}
+{ "index" : { "_index" : "products", "_id" : "951" } }
+{"marketplace": "MX", "title": "Flour - Strong", "price": 56.92}
+{ "index" : { "_index" : "products", "_id" : "952" } }
+{"marketplace": "US", "title": "Butter - Salted, Micro", "price": 44.21}
+{ "index" : { "_index" : "products", "_id" : "953" } }
+{"marketplace": "US", "title": "Cheese - Mascarpone", "price": 97.29}
+{ "index" : { "_index" : "products", "_id" : "954" } }
+{"marketplace": "US", "title": "Onions - Red Pearl", "price": 91.73}
+{ "index" : { "_index" : "products", "_id" : "955" } }
+{"marketplace": "US", "title": "Sage Ground Wiberg", "price": 51.08}
+{ "index" : { "_index" : "products", "_id" : "956" } }
+{"marketplace": "CA", "title": "Hog / Sausage Casing - Pork", "price": 82.0}
+{ "index" : { "_index" : "products", "_id" : "957" } }
+{"marketplace": "CA", "title": "Hog / Sausage Casing - Pork", "price": 78.23}
+{ "index" : { "_index" : "products", "_id" : "958" } }
+{"marketplace": "US", "title": "Pear - Prickly", "price": 32.95}
+{ "index" : { "_index" : "products", "_id" : "959" } }
+{"marketplace": "MX", "title": "Honey - Comb", "price": 53.84}
+{ "index" : { "_index" : "products", "_id" : "960" } }
+{"marketplace": "US", "title": "Seedlings - Mix, Organic", "price": 95.98}
+{ "index" : { "_index" : "products", "_id" : "961" } }
+{"marketplace": "US", "title": "Curry Powder Madras", "price": 95.77}
+{ "index" : { "_index" : "products", "_id" : "962" } }
+{"marketplace": "US", "title": "Sugar - Monocystal / Rock", "price": 86.04}
+{ "index" : { "_index" : "products", "_id" : "963" } }
+{"marketplace": "US", "title": "Wine - Magnotta - Belpaese", "price": 36.7}
+{ "index" : { "_index" : "products", "_id" : "964" } }
+{"marketplace": "MX", "title": "Mop Head - Cotton, 24 Oz", "price": 47.75}
+{ "index" : { "_index" : "products", "_id" : "965" } }
+{"marketplace": "US", "title": "Wine - Pinot Grigio Collavini", "price": 34.66}
+{ "index" : { "_index" : "products", "_id" : "966" } }
+{"marketplace": "US", "title": "Sambuca Cream", "price": 70.92}
+{ "index" : { "_index" : "products", "_id" : "967" } }
+{"marketplace": "MX", "title": "Pepper - Green", "price": 66.73}
+{ "index" : { "_index" : "products", "_id" : "968" } }
+{"marketplace": "MX", "title": "Basil - Thai", "price": 50.06}
+{ "index" : { "_index" : "products", "_id" : "969" } }
+{"marketplace": "US", "title": "Yogurt - Strawberry, 175 Gr", "price": 22.1}
+{ "index" : { "_index" : "products", "_id" : "970" } }
+{"marketplace": "CA", "title": "Triple Sec - Mcguinness", "price": 43.13}
+{ "index" : { "_index" : "products", "_id" : "971" } }
+{"marketplace": "US", "title": "External Supplier", "price": 91.37}
+{ "index" : { "_index" : "products", "_id" : "972" } }
+{"marketplace": "CA", "title": "Sugar - Individual Portions", "price": 25.99}
+{ "index" : { "_index" : "products", "_id" : "973" } }
+{"marketplace": "US", "title": "Lamb - Racks, Frenched", "price": 93.19}
+{ "index" : { "_index" : "products", "_id" : "974" } }
+{"marketplace": "US", "title": "Bread - Olive", "price": 90.75}
+{ "index" : { "_index" : "products", "_id" : "975" } }
+{"marketplace": "MX", "title": "Split Peas - Yellow, Dry", "price": 40.31}
+{ "index" : { "_index" : "products", "_id" : "976" } }
+{"marketplace": "MX", "title": "Beer - Muskoka Cream Ale", "price": 81.69}
+{ "index" : { "_index" : "products", "_id" : "977" } }
+{"marketplace": "US", "title": "Halibut - Steaks", "price": 93.23}
+{ "index" : { "_index" : "products", "_id" : "978" } }
+{"marketplace": "US", "title": "Chocolate - Mi - Amere Semi", "price": 95.33}
+{ "index" : { "_index" : "products", "_id" : "979" } }
+{"marketplace": "US", "title": "English Muffin", "price": 32.18}
+{ "index" : { "_index" : "products", "_id" : "980" } }
+{"marketplace": "US", "title": "Muffin - Mix - Bran And Maple 15l", "price": 83.7}
+{ "index" : { "_index" : "products", "_id" : "981" } }
+{"marketplace": "US", "title": "Placemat - Scallop, White", "price": 47.49}
+{ "index" : { "_index" : "products", "_id" : "982" } }
+{"marketplace": "US", "title": "Cheese - Colby", "price": 98.96}
+{ "index" : { "_index" : "products", "_id" : "983" } }
+{"marketplace": "US", "title": "Lidsoupcont Rp12dn", "price": 88.6}
+{ "index" : { "_index" : "products", "_id" : "984" } }
+{"marketplace": "MX", "title": "Anisette - Mcguiness", "price": 35.69}
+{ "index" : { "_index" : "products", "_id" : "985" } }
+{"marketplace": "CA", "title": "Eel - Smoked", "price": 95.74}
+{ "index" : { "_index" : "products", "_id" : "986" } }
+{"marketplace": "CA", "title": "Cup - Paper 10oz 92959", "price": 78.08}
+{ "index" : { "_index" : "products", "_id" : "987" } }
+{"marketplace": "US", "title": "Wine - Red, Black Opal Shiraz", "price": 58.17}
+{ "index" : { "_index" : "products", "_id" : "988" } }
+{"marketplace": "US", "title": "Pasta - Detalini, White, Fresh", "price": 37.33}
+{ "index" : { "_index" : "products", "_id" : "989" } }
+{"marketplace": "US", "title": "Sansho Powder", "price": 85.24}
+{ "index" : { "_index" : "products", "_id" : "990" } }
+{"marketplace": "US", "title": "Yoghurt Tubes", "price": 51.66}
+{ "index" : { "_index" : "products", "_id" : "991" } }
+{"marketplace": "CA", "title": "Bread - Bistro Sour", "price": 89.36}
+{ "index" : { "_index" : "products", "_id" : "992" } }
+{"marketplace": "CA", "title": "Shrimp - Black Tiger 16/20", "price": 34.79}
+{ "index" : { "_index" : "products", "_id" : "993" } }
+{"marketplace": "US", "title": "Mushroom - Chantrelle, Fresh", "price": 81.71}
+{ "index" : { "_index" : "products", "_id" : "994" } }
+{"marketplace": "CA", "title": "Bread - Corn Muffaleta Onion", "price": 29.58}
+{ "index" : { "_index" : "products", "_id" : "995" } }
+{"marketplace": "US", "title": "Barley - Pearl", "price": 94.84}
+{ "index" : { "_index" : "products", "_id" : "996" } }
+{"marketplace": "CA", "title": "Noodles - Steamed Chow Mein", "price": 98.16}
+{ "index" : { "_index" : "products", "_id" : "997" } }
+{"marketplace": "US", "title": "Flour - All Purpose", "price": 34.03}
+{ "index" : { "_index" : "products", "_id" : "998" } }
+{"marketplace": "US", "title": "Vinegar - Balsamic, White", "price": 26.44}
+{ "index" : { "_index" : "products", "_id" : "999" } }
+{"marketplace": "US", "title": "Muffin - Mix - Mango Sour Cherry", "price": 35.17}
+{ "index" : { "_index" : "products", "_id" : "1000" } }
+{"marketplace": "CA", "title": "Crab - Claws, 26 - 30", "price": 46.57}
+{ "index" : { "_index" : "products", "_id" : "1001" } }
+{"marketplace": "CA", "title": "Food Colouring - Red", "price": 63.65}

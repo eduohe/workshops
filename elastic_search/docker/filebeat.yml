@@ -1,0 +1,21 @@
+filebeat:
+  config:
+    modules:
+      path: /usr/share/filebeat/modules.d/*.yml
+      reload:
+        enabled: false
+  inputs:
+    type: log
+    paths:
+      - /var/log/apache2/*.log
+    enabled: true
+output:
+  logstash:
+    hosts: "logstash:5044"
+path:
+  config: /usr/share/filebeat
+  data: /usr/share/filebeat/data
+  home: /usr/share/filebeat
+  logs: /usr/share/filebeat/logs
+processors:
+- add_cloud_metadata: null

@@ -1,0 +1,78 @@
+version: "2.1"
+services:
+  elasticsearch:
+    container_name: elasticsearch
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.4.2
+    environment:
+      - discovery.type=single-node
+      - http.host=0.0.0.0
+      - transport.host=127.0.0.1
+      - "ES_JAVA_OPTS=-Xms1g -Xmx1g"
+      - xpack.security.enabled=false
+    ports:
+      - 9200:9200
+      - 9300:9300
+    volumes:
+      - esworkshopdata:/usr/share/elasticsearch/data
+      - ./docker/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+      nofile:
+        soft: 65536
+        hard: 65536
+    cap_add:
+      - IPC_LOCK
+    healthcheck:
+      test: ["CMD", "curl","-s" ,"-f", "-u", "elastic:${ES_PASSWORD:-changeme}", "http://localhost:9200/_cat/health"]
+      interval: 10s
+      timeout: 10s
+      retries: 3
+
+  kibana:
+    container_name: kibana
+    image: docker.elastic.co/kibana/kibana:7.4.2
+    ports:
+      - 5601:5601
+    environment:
+      - SERVER_HOST=0.0.0.0
+      - xpack.security.enabled=false
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+
+  logstash:
+    container_name: logstash
+    image: docker.elastic.co/logstash/logstash:7.4.2
+    ports:
+      - 9600:9600
+      - 5044:5044
+    volumes:
+      - ./docker/logstash/pipelines.yml:/usr/share/logstash/config/pipelines.yml
+      - ./docker/logstash/apache.conf:/usr/share/logstash/pipeline/apache.conf
+    environment:
+      - XPACK_MONITORING_ENABLED=false
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+
+  filebeat:
+    container_name: filebeat
+    ports:
+      - 5050:5050
+    image: docker.elastic.co/beats/filebeat:7.4.2
+    volumes:
+      - ./sample_logs:/var/log/apache2
+      - ./docker/filebeat/apache.yml:/usr/share/filebeat/modules.d/apache.yml
+      - ./docker/filebeat.yml:/usr/share/filebeat/filebeat.yml
+    environment:
+      - setup.kibana.host=kibana:5601
+      - modules:apache
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+
+volumes:
+  esworkshopdata:
+    driver: local
