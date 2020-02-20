@@ -1,0 +1,17 @@
+bin
+certifi
+certifi-2019.11.28.dist-info
+chardet
+chardet-3.0.4.dist-info
+idna
+idna-2.8.dist-info
+requests
+requests_aws4auth
+requests_aws4auth-0.9.dist-info
+requests-2.22.0.dist-info
+urllib3
+urllib3-1.25.8.dist-info
+HISTORY.rst
+LICENSE
+NOTICE
+README.rst
